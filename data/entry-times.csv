@@ -1,4 +1,4 @@
-id,created_at,text,Wadsworth to Gate,Gate Wait,,,,
+id,created_at,text,wtogate,gatewait,,,,wadtogatemin
 905299669076631552,2017-09-06 5:20:35,b'Gate road is officially closed. All traffic entering and exiting the city must go through Point 1/12 Mile road. See you in the dust in 2018!',,,,,,
 905280450301710339,2017-09-06 4:04:13,b'Gate Road to CR 34 has a 0 wait time. Drive times to Wadsworth are 1 hour 27 minutes. Please drive carefully - rough conditions.',,,,,,
 905265518747291652,2017-09-06 3:04:53,b'Drive times to Wadsworth are 1 hour 27 min.  Gate Road has a 0 wait time. Drive carefully - rough conditions.',,,,,,
@@ -93,161 +93,161 @@ id,created_at,text,Wadsworth to Gate,Gate Wait,,,,
 904283804050890752,2017-09-03 10:03:54,b'Departing: Burning Man to HWY is 20 min.  Southbound to Wadsworth is 2 hrs 3 min. \nNorthbound from Wadsworth to Gate Road - 1 hour 48 min.',,,,,,
 904278848359079936,2017-09-03 9:44:12,b'Departing: Burning Man to HWY is 20 min.  Southbound to Wadsworth is 1 hour 59 min. \nNorthbound from Wadsworth to Gate Road - 2 hour 48 min.',,,,,,
 904257467433013248,2017-09-03 8:19:15,b'Departing: Burning Man to HWY is 20 min.  Southbound to Wadsworth is 1 hour 52 min. \nNorthbound from Wadsworth to Gate Road - 1 hour 56 min.',,,,,,
-904239365513236480,2017-09-03 7:07:19,b'Gate Road to Wadsworth is 1 hours and 44 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 11 hours and 08 minutes.',11h08m,,,,,
-904224467999653888,2017-09-03 6:08:07,b'Gate Road to Wadsworth is 1 hours and 49 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 11 hours and 35 minutes.',11h35m,,,,,
+904239365513236480,2017-09-03 7:07:19,b'Gate Road to Wadsworth is 1 hours and 44 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 11 hours and 08 minutes.',11h08m,,11,08m,8,668
+904224467999653888,2017-09-03 6:08:07,b'Gate Road to Wadsworth is 1 hours and 49 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 11 hours and 35 minutes.',11h35m,,11,35m,35,695
 904221095154339840,2017-09-03 5:54:43,b'Main entrance has moved to the 12 mile entrance. 8 mile is now all exit lanes. Do not enter into oncoming traffic at 8 mile.',,,,,,
-904209527351934976,2017-09-03 5:08:45,b'Gate Road to Wadsworth is 1 hours and 51 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 6 hours and 39 minutes.',6h39m,,,,,
-904179134565404672,2017-09-03 3:07:59,b'Gate Road to Wadsworth is 1 hours and 39 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 2 hours and 02 minutes.',2h02m,,,,,
+904209527351934976,2017-09-03 5:08:45,b'Gate Road to Wadsworth is 1 hours and 51 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 6 hours and 39 minutes.',6h39m,,6,39m,39,399
+904179134565404672,2017-09-03 3:07:59,b'Gate Road to Wadsworth is 1 hours and 39 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 2 hours and 02 minutes.',2h02m,,2,02m,2,122
 904170871958405121,2017-09-03 2:35:09,b'2) Consider using Highway 95 through Fallon if possible.',,,,,,
 904170810004393984,2017-09-03 2:34:54,b'1) Be advised there is the potential for road closures on Highway 395 southbound as you leave Nevada and enter California.',,,,,,
 904170670640308224,2017-09-03 2:34:21,b'Law enforcement will be in Nixon monitoring the speed limit.',,,,,,
 904170580819271681,2017-09-03 2:33:59,b'Participants will see message boards in Nixon displaying the 25 mph speed limit due to firefighters stationed in the area.',,,,,,
 904170390804680705,2017-09-03 2:33:14,"b'Participants driving south on 447 may see smoke, fire and firefighting aircraft between mile 44 and mile 37 approaching Nixon. Drive safely.'",,,,,,
-904162448432877569,2017-09-03 2:01:40,b'Gate Road to Wadsworth is 1 hour and 55 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 2 hours and 23 minutes.',2h23m,,,,,
-904152922761646080,2017-09-03 1:23:49,b'Gate Road to Wadsworth is 1 hour and 56 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 2 hours and 23 minutes.',2h23m,,,,,
-904138233516347392,2017-09-03 0:25:27,b'Wadsworth to Gate road time is 2 hours and 22 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 2 hours.',2h22m,,,,,
-904117784526848001,2017-09-02 23:04:12,b'Wadsworth to Gate road time is 2 hours and 4 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 2 hour and 1 minutes.',2h04m,,,,,
+904162448432877569,2017-09-03 2:01:40,b'Gate Road to Wadsworth is 1 hour and 55 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 2 hours and 23 minutes.',2h23m,,2,23m,23,143
+904152922761646080,2017-09-03 1:23:49,b'Gate Road to Wadsworth is 1 hour and 56 minutes with a Exit time of 0 minutes. Wadsworth to Gate Road time is 2 hours and 23 minutes.',2h23m,,2,23m,23,143
+904138233516347392,2017-09-03 0:25:27,b'Wadsworth to Gate road time is 2 hours and 22 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 2 hours.',2h22m,,2,22m,22,142
+904117784526848001,2017-09-02 23:04:12,b'Wadsworth to Gate road time is 2 hours and 4 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 2 hour and 1 minutes.',2h04m,,2,04m,4,124
 904103022636277760,2017-09-02 22:05:32,b'Will Call has officially closed. Vehicles need to have tickets for everyone and parking pass for in the front window-lower left front corner',,,,,,
-904102093723754496,2017-09-02 22:01:51,b'Wadsworth to Gate road time is 2 hours and 19 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 56 minutes.',2h19m,20,,,,
+904102093723754496,2017-09-02 22:01:51,b'Wadsworth to Gate road time is 2 hours and 19 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 56 minutes.',2h19m,20,2,19m,19,139
 904091260805369856,2017-09-02 21:18:48,b'Wadsworth to Gate road time is 2 hours and 31 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 56 minutes.',1h56m,,,,,
 904066108017307648,2017-09-02 19:38:51,b'Fires are live in the area. Please drive carefully through area with smoke &amp; watch for Emergency crews on the road.\xe2\x80\xa6 https://t.co/TJYpJ0PqLh',,,,,,
-904057248040837121,2017-09-02 19:03:39,b'Wadsworth to Gate road time is 2 hours and 52 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 42 minutes.',2h52m,20,,,,
-904043108299624449,2017-09-02 18:07:27,b'Wadsworth to Gate road time is 1 hour and 33 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 46 minutes.',1h33m,20,,,,
-904028894814248960,2017-09-02 17:10:59,b'Wadsworth to Gate road time is 1 hour and 42 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 52 minutes.',1h42m,20,,,,
-904013217206239236,2017-09-02 16:08:41,b'Wadsworth to Gate road time is 2 hours and 4 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 59 minutes.',2h04m,20,,,,
+904057248040837121,2017-09-02 19:03:39,b'Wadsworth to Gate road time is 2 hours and 52 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 42 minutes.',2h52m,20,2,52m,52,172
+904043108299624449,2017-09-02 18:07:27,b'Wadsworth to Gate road time is 1 hour and 33 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 46 minutes.',1h33m,20,1,33m,33,93
+904028894814248960,2017-09-02 17:10:59,b'Wadsworth to Gate road time is 1 hour and 42 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 52 minutes.',1h42m,20,1,42m,42,102
+904013217206239236,2017-09-02 16:08:41,b'Wadsworth to Gate road time is 2 hours and 4 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 59 minutes.',2h04m,20,2,04m,4,124
 904005620973658114,2017-09-02 15:38:30,b'Gate Road speed limit is 10 mph. City speed is 5 mph. Radio stations GARS 95.1 and BMIR 94.5 (iHeart Radio) are available for announcements.',,,,,,
-904001347690921989,2017-09-02 15:21:31,b'Wadsworth to Gate road time is 2 hours and 4 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 44 minutes.',2h04m,20,,,,
-903770219298131968,2017-09-02 0:03:06,b'Wadsworth to Gate road time is 2 hours and 5 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 52 minutes.',2h05m,20,,,,
-903763275275530240,2017-09-01 23:35:30,b'Wadsworth to Gate road time is 2 hours and 04 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hours and 59 minutes.',2h04m,20,,,,
+904001347690921989,2017-09-02 15:21:31,b'Wadsworth to Gate road time is 2 hours and 4 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 44 minutes.',2h04m,20,2,04m,4,124
+903770219298131968,2017-09-02 0:03:06,b'Wadsworth to Gate road time is 2 hours and 5 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hour and 52 minutes.',2h05m,20,2,05m,5,125
+903763275275530240,2017-09-01 23:35:30,b'Wadsworth to Gate road time is 2 hours and 04 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 1 hours and 59 minutes.',2h04m,20,2,04m,4,124
 903725365880901634,2017-09-01 21:04:52,b'Gate Road speed limit is 10 mph. City speed is 5 mph. Radio stations GARS 95.1 and BMIR 94.5 (iHeart Radio) are available for announcements.',,,,,,
-903724898190753796,2017-09-01 21:03:00,b'Wadsworth to Gate road time is 2 hours and 25 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 2 hours and 45 minutes.',2h25m,20,,,,
-903695487898931200,2017-09-01 19:06:08,b'Wadsworth to Gate road time is 1 hour and 47 minutes with a Gate wait time of 20 minutes.',1h47m,20,,,,
-903668654700728320,2017-09-01 17:19:31,b'Wadsworth to Gate road time is 1 hour and 58 minutes with a Gate wait time of 20 minutes.',1h58m,20,,,,
-903649802424082436,2017-09-01 16:04:36,b'Traffic is improving:  Wadsworth to Gate road time is 2 hours and 29 minutes with a Gate wait time of 20 minutes.',2h29m,20,,,,
+903724898190753796,2017-09-01 21:03:00,b'Wadsworth to Gate road time is 2 hours and 25 minutes with a Gate wait time of 20 minutes. Gate to Wadsworth time is 2 hours and 45 minutes.',2h25m,20,2,25m,25,145
+903695487898931200,2017-09-01 19:06:08,b'Wadsworth to Gate road time is 1 hour and 47 minutes with a Gate wait time of 20 minutes.',1h47m,20,1,47m,47,107
+903668654700728320,2017-09-01 17:19:31,b'Wadsworth to Gate road time is 1 hour and 58 minutes with a Gate wait time of 20 minutes.',1h58m,20,1,58m,58,118
+903649802424082436,2017-09-01 16:04:36,b'Traffic is improving:  Wadsworth to Gate road time is 2 hours and 29 minutes with a Gate wait time of 20 minutes.',2h29m,20,2,29m,29,149
 903649103661453313,2017-09-01 16:01:49,b'HWY 447: Please drive safe and be prepared to slow down north of Wadsworth to Gerlach. Emergency crews are still on the roads.',,,,,,
-903646793434574848,2017-09-01 15:52:39,b'Wadsworth to Gate road time is 6 hours and 47 minutes with a Gate wait time of 20 minutes.',6h47m,20,,,,
-903484071094796288,2017-09-01 5:06:03,b'Wadsworth to Gate road time is 5 hours and 26 minutes with a Gate wait time of 20 minutes.',5h26m,20,,,,
-903468215858118656,2017-09-01 4:03:02,b'Wadsworth to Gate road time is 5 hours and 3 minutes with a Gate wait time of 20 minutes.',5h03m,20,,,,
-903438771772948480,2017-09-01 2:06:02,b'Wadsworth to Gate road wait time is 3 hour 03 minutes with a Gate wait time of 20 minutes.',3h03m,20,,,,
+903646793434574848,2017-09-01 15:52:39,b'Wadsworth to Gate road time is 6 hours and 47 minutes with a Gate wait time of 20 minutes.',6h47m,20,6,47m,47,407
+903484071094796288,2017-09-01 5:06:03,b'Wadsworth to Gate road time is 5 hours and 26 minutes with a Gate wait time of 20 minutes.',5h26m,20,5,26m,26,326
+903468215858118656,2017-09-01 4:03:02,b'Wadsworth to Gate road time is 5 hours and 3 minutes with a Gate wait time of 20 minutes.',5h03m,20,5,03m,3,303
+903438771772948480,2017-09-01 2:06:02,b'Wadsworth to Gate road wait time is 3 hour 03 minutes with a Gate wait time of 20 minutes.',3h03m,20,3,03m,3,183
 903413561619296256,2017-09-01 0:25:52,"b'Road Condition: Always check road condition before you drive, you can visit \nhttps://t.co/NBoB10CWES'",,,,,,
-903410203248529408,2017-09-01 0:12:31,b'Wadsworth to Gate road wait time is 2 hour 15 minutes with a Gate wait time of 2 hours.',2h15m,120,,,,
-903392749667450882,2017-08-31 23:03:10,b'Wadsworth to Gate road wait time is 1 hour 45 minutes with a Gate wait time of 20 minutes.',1h45m,20,,,,
+903410203248529408,2017-09-01 0:12:31,b'Wadsworth to Gate road wait time is 2 hour 15 minutes with a Gate wait time of 2 hours.',2h15m,120,2,15m,15,135
+903392749667450882,2017-08-31 23:03:10,b'Wadsworth to Gate road wait time is 1 hour 45 minutes with a Gate wait time of 20 minutes.',1h45m,20,1,45m,45,105
 903362500074364928,2017-08-31 21:02:58,b'Please slow down on Gate Road the speed limit is 10 mph. City speed is 5 mph. Radio stations 95.1 and 94.5 are available for announcements.',,,,,,
-903357538183282690,2017-08-31 20:43:15,b'Wadsworth to Gate road wait time is 2 hour 14 minutes with a Gate wait time of 20 minutes.',2h15m,20,,,,
-903337804050124800,2017-08-31 19:24:50,b'Wadsworth to Gate road wait time is 1 hour 50 minutes with a Gate wait time of 45 minutes.',1h50m,45,,,,
-903277651879743488,2017-08-31 15:25:48,b'Wadsworth to Gate road wait time is 2 hour 04 minutes with a Gate wait time of 20 minutes.',2h04m,20,,,,
+903357538183282690,2017-08-31 20:43:15,b'Wadsworth to Gate road wait time is 2 hour 14 minutes with a Gate wait time of 20 minutes.',2h15m,20,2,15m,15,135
+903337804050124800,2017-08-31 19:24:50,b'Wadsworth to Gate road wait time is 1 hour 50 minutes with a Gate wait time of 45 minutes.',1h50m,45,1,50m,50,110
+903277651879743488,2017-08-31 15:25:48,b'Wadsworth to Gate road wait time is 2 hour 04 minutes with a Gate wait time of 20 minutes.',2h04m,20,2,04m,4,124
 903277372807446528,2017-08-31 15:24:42,b'Hwy 447 is now open.  Please drive carefully through mile marker 40-62 south of Empire.  Emergency crews are still on the roads.',,,,,,
 903233058211495937,2017-08-31 12:28:36,b'Wildland Fire (Road Closed) - on SR-447 between Nixon and Empire in Nevada. \nCurrent as of: 8/31/2017 12:18:29 AM PDT',,,,,,
 903056848781271040,2017-08-31 0:48:25,b'Hwy 447 Closed for Several Hours Due to Fire in the Area - https://t.co/AMlglOGaoC https://t.co/WLUD38g083',,,,,,
 903047008965054464,2017-08-31 0:09:19,b'The fire on HWY 447 South of Empire between mile markers 40 - 62 is on the lake GeoThermal Side.  Please drive safe through the area.',,,,,,
 903042617293905920,2017-08-30 23:51:52,"b'All traffic leaving Burning Man, Please stay on the flag line. As you approach the flag line, please stay on the right side of flags to exit'",,,,,,
 903041780765032448,2017-08-30 23:48:32,"b'All traffic entering Burningman, Please use the Right 8 lanes to enter the event.  All traffic leaving Burningman, Please drive safe.'",,,,,,
-902789811660087296,2017-08-30 7:07:18,b'Wadsworth to Gate road wait time is 1 hour 31 minutes with no wait at Gate.',1h31m,0,,,,
-902760000631734276,2017-08-30 5:08:51,b'Wadsworth to Gate road wait time is 1 hour 39 minutes with no wait at Gate.',1h39m,0,,,,
-902744289712766976,2017-08-30 4:06:25,b'Wadsworth to Gate road wait time is 1 hour 36 minutes with a Gate wait time of 20 minutes.',1h36m,20,,,,
-902729342471589888,2017-08-30 3:07:01,b'Wadsworth to Gate road wait time is 1 hour 36 minutes with a Gate wait time of 25 minutes.',1h36m,25,,,,
-902715503482982400,2017-08-30 2:12:02,b'Wadsworth to Gate road wait time is 1 hour 37 minutes with a Gate wait time of 15 minutes. Weather has improved for the moment.',1h37m,15,,,,
-902696478774362112,2017-08-30 0:56:26,b'Wadsworth to Gate road 1 hour 35 min. Gate has waits under an hour but having intermittent closures due to weather affecting visibility',1h35m,30,,,,
+902789811660087296,2017-08-30 7:07:18,b'Wadsworth to Gate road wait time is 1 hour 31 minutes with no wait at Gate.',1h31m,0,1,31m,31,91
+902760000631734276,2017-08-30 5:08:51,b'Wadsworth to Gate road wait time is 1 hour 39 minutes with no wait at Gate.',1h39m,0,1,39m,39,99
+902744289712766976,2017-08-30 4:06:25,b'Wadsworth to Gate road wait time is 1 hour 36 minutes with a Gate wait time of 20 minutes.',1h36m,20,1,36m,36,96
+902729342471589888,2017-08-30 3:07:01,b'Wadsworth to Gate road wait time is 1 hour 36 minutes with a Gate wait time of 25 minutes.',1h36m,25,1,36m,36,96
+902715503482982400,2017-08-30 2:12:02,b'Wadsworth to Gate road wait time is 1 hour 37 minutes with a Gate wait time of 15 minutes. Weather has improved for the moment.',1h37m,15,1,37m,37,97
+902696478774362112,2017-08-30 0:56:26,b'Wadsworth to Gate road 1 hour 35 min. Gate has waits under an hour but having intermittent closures due to weather affecting visibility',1h35m,30,1,35m,35,95
 902691448805408768,2017-08-30 0:36:27,"b'At this time, the Gate is fully operational. Due to inclement weather and visibility/safety concerns, delays and closures are possible.'",,,,,,
-902682517987348484,2017-08-30 0:00:57,b'Wadsworth to Gate Road is 1:44. Gate was momentarily closed during a light and short rain event. Upon reopening they have a 15 min wait.',1h44m,15,,,,
+902682517987348484,2017-08-30 0:00:57,b'Wadsworth to Gate Road is 1:44. Gate was momentarily closed during a light and short rain event. Upon reopening they have a 15 min wait.',1h44m,15,1,44m,44,104
 902668657121210372,2017-08-29 23:05:53,b'NHP reports debris on I-80 just before Wadsworth. Possible delays. And please secure your load!',,,,,,
 902668318737399808,2017-08-29 23:04:32,"b'Traffic Update: Wadsworth to Gate Road 1:40 and about a 30 minute wait at Gate. If possible light rain falls, expect some impact on times.'",,,,,,
-902654976387944448,2017-08-29 22:11:31,b'Traffic Update: Gate wait of 15 minutes. 1 hour and 37 minute drive from Wadsworth to Gate Road.',1h37m,15,,,,
-902636014904250368,2017-08-29 20:56:10,b'Traffic Update: No wait at the Gate and an easy 1 hour and 43 minute drive from Wadsworth to Gate Road. Great time to enter the city.',1h43m,0,,,,
-902622540895571970,2017-08-29 20:02:38,b'Traffic Update: 1 hour and 52 minutes from Wadsworth to Gate Road and a 15 minute wait at Gate.',1h52m,15,,,,
-902607649224712192,2017-08-29 19:03:27,b'Traffic Update: 1 hour and 32 minutes from Wadsworth to Gate Roiad and a 10 minute wait at Gate. Drive safe.',1h32m,10,,,,
-902578631712665601,2017-08-29 17:08:09,b'It is 1 hour 25 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road.',1h25m,0,,,,
+902654976387944448,2017-08-29 22:11:31,b'Traffic Update: Gate wait of 15 minutes. 1 hour and 37 minute drive from Wadsworth to Gate Road.',1h37m,15,1,37m,37,97
+902636014904250368,2017-08-29 20:56:10,b'Traffic Update: No wait at the Gate and an easy 1 hour and 43 minute drive from Wadsworth to Gate Road. Great time to enter the city.',1h43m,0,1,43m,43,103
+902622540895571970,2017-08-29 20:02:38,b'Traffic Update: 1 hour and 52 minutes from Wadsworth to Gate Road and a 15 minute wait at Gate.',1h52m,15,1,52m,52,112
+902607649224712192,2017-08-29 19:03:27,b'Traffic Update: 1 hour and 32 minutes from Wadsworth to Gate Roiad and a 10 minute wait at Gate. Drive safe.',1h32m,10,1,32m,32,92
+902578631712665601,2017-08-29 17:08:09,b'It is 1 hour 25 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road.',1h25m,0,1,25m,25,85
 902563113622536194,2017-08-29 16:06:29,b'Repairs on CR34 have been completed and traffic is flowing smoothly.',,,,,,
 902552392553652224,2017-08-29 15:23:53,b'Road repair on CR34 to repair potholes between Gerlach and Gate Road.  Expect delays.',,,,,,
 902532014842286081,2017-08-29 14:02:55,b'RT @bmantraffic: Expected road closure on CR34 at 7:00 AM to repair potholes between Gerlach and Gate Road. The road will be closed for 45\xe2\x80\xa6',,,,,,
 902516002340167680,2017-08-29 12:59:17,b'Expected road closure on CR34 at 7:00 AM to repair potholes between Gerlach and Gate Road. The road will be closed for 45 minutes.',,,,,,
-902502143965487104,2017-08-29 12:04:13,b'Traffic Update: Low traffic volume between Wadsworth and Gate Road; about 2 hours travel time.  No wait at Gate.',2h00m,0,,,,
-902488410111315969,2017-08-29 11:09:39,b'Traffic Update: Wadsworth to Gate Road is flowing normally; about 2 hours and no wait at Gate.',2h00m,0,,,,
-902472012265906176,2017-08-29 10:04:29,b'Traffic Update: Wadsworth to Gate Road is 2 hours and no wait at Gate.',2h00m,0,,,,
-902456075970117632,2017-08-29 9:01:09,b'Traffic Update: Wadsworth to Gate Road is 2 hours 4 minutes and a 5 minute wait at Gate.',2h04m,5,,,,
-902441413455032320,2017-08-29 8:02:54,b'Traffic Update: Wadsworth to Gate Road is 2 hours 5 minutes and a 20 minute wait at Gate.',2h05m,20,,,,
-902409957366263808,2017-08-29 5:57:54,b'Traffic Update: Wadsworth to Gate Road is 2 hours. Currently no wait for Gate.',2h00m,0,,,,
-902394594788343809,2017-08-29 4:56:51,"b'Traffic Update: Travel through Empire is currently slowed, resulting in Wadsworth to Gate Road taking 2 hours 10 minutes. No wait at Gate.'",2h10m,0,,,,
-902380057720758272,2017-08-29 3:59:05,b'Traffic Update: About 1 hour 50 minutes from Wadsworth to Gate Road and a 30 minute wait at the Gate.',1h50m,30,,,,
-902365969573711872,2017-08-29 3:03:06,b'Traffic Update: Monday evening looks great for entering Burning Man. 1 hour 45 minutes from Wadsworth to Gate Road. 15 minute wait at Gate.',1h45m,15,,,,
-902350988136382464,2017-08-29 2:03:35,b'White outs cleared now that incoming cars comply with the speed limit. Travel times: Wadsworth to Gate Road 1:50. Gate Wait 15 minutes.',1h50m,15,,,,
-902338807311122432,2017-08-29 1:15:10,b'Speeding on Gate Road is enforced by LEO and causes white outs in the city. Travel times: Wadsworth to Gate Road 1:40. Gate wait 30 minutes.',1h40m,30,,,,
+902502143965487104,2017-08-29 12:04:13,b'Traffic Update: Low traffic volume between Wadsworth and Gate Road; about 2 hours travel time.  No wait at Gate.',2h00m,0,2,00m,0,120
+902488410111315969,2017-08-29 11:09:39,b'Traffic Update: Wadsworth to Gate Road is flowing normally; about 2 hours and no wait at Gate.',2h00m,0,2,00m,0,120
+902472012265906176,2017-08-29 10:04:29,b'Traffic Update: Wadsworth to Gate Road is 2 hours and no wait at Gate.',2h00m,0,2,00m,0,120
+902456075970117632,2017-08-29 9:01:09,b'Traffic Update: Wadsworth to Gate Road is 2 hours 4 minutes and a 5 minute wait at Gate.',2h04m,5,2,04m,4,124
+902441413455032320,2017-08-29 8:02:54,b'Traffic Update: Wadsworth to Gate Road is 2 hours 5 minutes and a 20 minute wait at Gate.',2h05m,20,2,05m,5,125
+902409957366263808,2017-08-29 5:57:54,b'Traffic Update: Wadsworth to Gate Road is 2 hours. Currently no wait for Gate.',2h00m,0,2,00m,0,120
+902394594788343809,2017-08-29 4:56:51,"b'Traffic Update: Travel through Empire is currently slowed, resulting in Wadsworth to Gate Road taking 2 hours 10 minutes. No wait at Gate.'",2h10m,0,2,10m,10,130
+902380057720758272,2017-08-29 3:59:05,b'Traffic Update: About 1 hour 50 minutes from Wadsworth to Gate Road and a 30 minute wait at the Gate.',1h50m,30,1,50m,50,110
+902365969573711872,2017-08-29 3:03:06,b'Traffic Update: Monday evening looks great for entering Burning Man. 1 hour 45 minutes from Wadsworth to Gate Road. 15 minute wait at Gate.',1h45m,15,1,45m,45,105
+902350988136382464,2017-08-29 2:03:35,b'White outs cleared now that incoming cars comply with the speed limit. Travel times: Wadsworth to Gate Road 1:50. Gate Wait 15 minutes.',1h50m,15,1,50m,50,110
+902338807311122432,2017-08-29 1:15:10,b'Speeding on Gate Road is enforced by LEO and causes white outs in the city. Travel times: Wadsworth to Gate Road 1:40. Gate wait 30 minutes.',1h40m,30,1,40m,40,100
 9.02308E+17,2017-08-28 23:11:06,b'The Gate road is causing white out due to participants speeding down Gate Road! The Gate crew is evaluating traffic due to safety concerns.',,,,,,
-902306329028677633,2017-08-28 23:06:07,b'It is 1 hour 56 minutes from Wadsworth to Gate Road and a FIVE minute wait on Gate Road.',1h56m,5,,,,
-902291567129579523,2017-08-28 22:07:28,b'It is 1 hour 53 minutes from Wadsworth to Gate Road and a FIVE minute wait on Gate Road.',1h53m,5,,,,
-902275489196277760,2017-08-28 21:03:34,b'It is 1 hour 53 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road.',1h53m,0,,,,
-902264163032059906,2017-08-28 20:18:34,b'It is 1 hour 57 minutes from Wadsworth to Gate Road and a three minute wait on Gate Road. Wind has picked up - please observe speed limits.',1h57m,3,,,,
-902245857248075778,2017-08-28 19:05:49,b'It is 1 hour 31 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road. Wind has picked up - please observe speed limits.',1h31m,0,,,,
-902229493078687744,2017-08-28 18:00:48,b'It is 1 hour 37 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road.',1h37m,0,,,,
-902214584278319104,2017-08-28 17:01:33,b'It is 1 hour 49 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road.',1h49m,0,,,,
-902199329351401473,2017-08-28 16:00:56,b't is 1 hour 50 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road.',1h50m,0,,,,
-902184718531166208,2017-08-28 15:02:53,b'It is 1 hour 43 minutes from Wadsworth to Gate Road and a 15 minute wait on Gate Road.',1h43m,15,,,,
-902170503074504704,2017-08-28 14:06:24,b'It is 1 hour 54 minutes from Wadsworth to Gate Road and a 15 minute wait on Gate Road.',1h54m,15,,,,
+902306329028677633,2017-08-28 23:06:07,b'It is 1 hour 56 minutes from Wadsworth to Gate Road and a FIVE minute wait on Gate Road.',1h56m,5,1,56m,56,116
+902291567129579523,2017-08-28 22:07:28,b'It is 1 hour 53 minutes from Wadsworth to Gate Road and a FIVE minute wait on Gate Road.',1h53m,5,1,53m,53,113
+902275489196277760,2017-08-28 21:03:34,b'It is 1 hour 53 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road.',1h53m,0,1,53m,53,113
+902264163032059906,2017-08-28 20:18:34,b'It is 1 hour 57 minutes from Wadsworth to Gate Road and a three minute wait on Gate Road. Wind has picked up - please observe speed limits.',1h57m,3,1,57m,57,117
+902245857248075778,2017-08-28 19:05:49,b'It is 1 hour 31 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road. Wind has picked up - please observe speed limits.',1h31m,0,1,31m,31,91
+902229493078687744,2017-08-28 18:00:48,b'It is 1 hour 37 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road.',1h37m,0,1,37m,37,97
+902214584278319104,2017-08-28 17:01:33,b'It is 1 hour 49 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road.',1h49m,0,1,49m,49,109
+902199329351401473,2017-08-28 16:00:56,b't is 1 hour 50 minutes from Wadsworth to Gate Road and a zero minute wait on Gate Road.',1h50m,0,1,50m,50,110
+902184718531166208,2017-08-28 15:02:53,b'It is 1 hour 43 minutes from Wadsworth to Gate Road and a 15 minute wait on Gate Road.',1h43m,15,1,43m,43,103
+902170503074504704,2017-08-28 14:06:24,b'It is 1 hour 54 minutes from Wadsworth to Gate Road and a 15 minute wait on Gate Road.',1h54m,15,1,54m,54,114
 902162658237050882,2017-08-28 13:35:13,"b'Monday, August 28:\nHigh 101, low 63 Winds 10-15 mph from the southwest, gusting to 25 mph in the afternoon   \nNo precipitation expected'",,,,,,
-902154323777527808,2017-08-28 13:02:06,b'It is 1 hour 47  minutes from Wadsworth to Gate Road and a 20 minute wait on Gate road.',1h47m,20,,,,
-902139015213801476,2017-08-28 12:01:16,b'It is 1 hour 53 minutes from Wadsworth to Gate Road and a 20 minute wait on Gate road.',1h53m,20,,,,
-902124157839794176,2017-08-28 11:02:14,b'It is 1 hour 58 minutes from Wadsworth to Gate Road and a 25 minute wait on Gate road.',1h58m,25,,,,
-902108967391961088,2017-08-28 10:01:52,b'It is 1 hour 39 minutes from Wadsworth to Gate Road and a 30 minute wait on Gate road.',1h39m,30,,,,
-902093779477438464,2017-08-28 9:01:31,b'It is 2 hours from Wadsworth to Gate Road and a 30 minute wait on Gate road.',2h00m,30,,,,
-902078778897305600,2017-08-28 8:01:55,b'It is under 2 hours from Wadsworth to Gate Road and a 30 minute wait on Gate road.',1h30m,30,,,,
-902064934267359234,2017-08-28 7:06:54,b'It is under 2 hours from Wadsworth to Gate Road and less than a 2 hour wait on Gate road.',1h30m,120,,,,
-902049508892303360,2017-08-28 6:05:36,b'It is under 2 hours from Wadsworth to Gate Road and now a 2 hour wait on Gate road.',1h30m,120,,,,
+902154323777527808,2017-08-28 13:02:06,b'It is 1 hour 47  minutes from Wadsworth to Gate Road and a 20 minute wait on Gate road.',1h47m,20,1,47m,47,107
+902139015213801476,2017-08-28 12:01:16,b'It is 1 hour 53 minutes from Wadsworth to Gate Road and a 20 minute wait on Gate road.',1h53m,20,1,53m,53,113
+902124157839794176,2017-08-28 11:02:14,b'It is 1 hour 58 minutes from Wadsworth to Gate Road and a 25 minute wait on Gate road.',1h58m,25,1,58m,58,118
+902108967391961088,2017-08-28 10:01:52,b'It is 1 hour 39 minutes from Wadsworth to Gate Road and a 30 minute wait on Gate road.',1h39m,30,1,39m,39,99
+902093779477438464,2017-08-28 9:01:31,b'It is 2 hours from Wadsworth to Gate Road and a 30 minute wait on Gate road.',2h00m,30,2,00m,0,120
+902078778897305600,2017-08-28 8:01:55,b'It is under 2 hours from Wadsworth to Gate Road and a 30 minute wait on Gate road.',1h30m,30,1,30m,30,90
+902064934267359234,2017-08-28 7:06:54,b'It is under 2 hours from Wadsworth to Gate Road and less than a 2 hour wait on Gate road.',1h30m,120,1,30m,30,90
+902049508892303360,2017-08-28 6:05:36,b'It is under 2 hours from Wadsworth to Gate Road and now a 2 hour wait on Gate road.',1h30m,120,1,30m,30,90
 902019635675062273,2017-08-28 4:06:54,b'Notice: There is a pothole on HWY 34 northbound approximately 3 miles before your 8 Mile Entrance to Burning Man. Please drive safe.',,120,,,,
-902018851910627328,2017-08-28 4:03:47,b'Traffic Update: It is under 2 hours from Wadsworth to Gate Road and now a 3 hour wait on Gate road.',1h30m,180,,,,
+902018851910627328,2017-08-28 4:03:47,b'Traffic Update: It is under 2 hours from Wadsworth to Gate Road and now a 3 hour wait on Gate road.',1h30m,180,1,30m,30,90
 902004254407262208,2017-08-28 3:05:47,b'Please be careful - Emergency Vehicles responding in Wadsworth and Sutcliffe.  Take caution when passing around the areas.',,,,,,
-902003771764600832,2017-08-28 3:03:52,b'Traffic Update: 2 hours 15 minutes  from Wadsworth to Gate Road and now a 3 hour wait on Gate road.',2h15m,180,,,,
-901989035194945536,2017-08-28 2:05:18,b'Traffic Update: It is under 2 hours from Wadsworth to Gate Road and now a 4 hour wait on Gate road.',1h30m,240,,,,
-901974419786145792,2017-08-28 1:07:14,"b'There is an accident on 447 after Empire, which may impact traffic. 1 hour 52 minutes from Wadsworth to 8 Mile, and 3 hour wait on Gate road'",1h52m,240,,,,
-901958436530921472,2017-08-28 0:03:43,"b'There is an accident on 447 after Empire, which may impact traffic. 2:10 hours from Wadsworth to 8 Mile, and 3:20 hours wait on Gate road.'",2h10m,260,,,,
-901943034526531584,2017-08-27 23:02:31,b'Traffic Update: Travel time are improving. It is under 2 hours from Wadsworth to Gate Road and now a 3 hour wait on Gate road.',1h30m,180,,,,
-901927992955465730,2017-08-27 22:02:45,b'Traffic Update: Travel time continues to be 2 hours from Wadsworth to Gate Road and a 4 hour wait on Gate road.',2h00m,240,,,,
-901912538115387392,2017-08-27 21:01:20,b'Traffic Update: It is still a 2 hour travel time Wadsworth to Gate Road and 4 hour wait on Gate road.',2h00m,240,,,,
-901896778806648833,2017-08-27 19:58:43,b'Traffic Update: 2 hours travel time Wadsworth to Gate Road and 4 Hour wait on Gate road.',2h00m,240,,,,
-901882356386156546,2017-08-27 19:01:24,b'Traffic Update: 2 hours travel time Wadsworth to Gate Road and 3 Hour wait on Gate road.',2h00m,180,,,,
-901867541353639936,2017-08-27 18:02:32,b'1 hour 59 minutes travel time Wadsworth to Gate Road and 3 Hour wait on Gate road.',1h59m,180,,,,
-901853701429743618,2017-08-27 17:07:32,b'Traffic Update: 2 hours travel time Wadsworth to Gate Road and 2  Hour wait on Gate road.',2h00m,120,,,,
-901837918234226689,2017-08-27 16:04:49,b'Traffic Update: 1 hour 47 minutes travel time Wadsworth to Gate Road and 2  Hour wait on Gate road.',1h47m,120,,,,
+902003771764600832,2017-08-28 3:03:52,b'Traffic Update: 2 hours 15 minutes  from Wadsworth to Gate Road and now a 3 hour wait on Gate road.',2h15m,180,2,15m,15,135
+901989035194945536,2017-08-28 2:05:18,b'Traffic Update: It is under 2 hours from Wadsworth to Gate Road and now a 4 hour wait on Gate road.',1h30m,240,1,30m,30,90
+901974419786145792,2017-08-28 1:07:14,"b'There is an accident on 447 after Empire, which may impact traffic. 1 hour 52 minutes from Wadsworth to 8 Mile, and 3 hour wait on Gate road'",1h52m,240,1,52m,52,112
+901958436530921472,2017-08-28 0:03:43,"b'There is an accident on 447 after Empire, which may impact traffic. 2:10 hours from Wadsworth to 8 Mile, and 3:20 hours wait on Gate road.'",2h10m,260,2,10m,10,130
+901943034526531584,2017-08-27 23:02:31,b'Traffic Update: Travel time are improving. It is under 2 hours from Wadsworth to Gate Road and now a 3 hour wait on Gate road.',1h30m,180,1,30m,30,90
+901927992955465730,2017-08-27 22:02:45,b'Traffic Update: Travel time continues to be 2 hours from Wadsworth to Gate Road and a 4 hour wait on Gate road.',2h00m,240,2,00m,0,120
+901912538115387392,2017-08-27 21:01:20,b'Traffic Update: It is still a 2 hour travel time Wadsworth to Gate Road and 4 hour wait on Gate road.',2h00m,240,2,00m,0,120
+901896778806648833,2017-08-27 19:58:43,b'Traffic Update: 2 hours travel time Wadsworth to Gate Road and 4 Hour wait on Gate road.',2h00m,240,2,00m,0,120
+901882356386156546,2017-08-27 19:01:24,b'Traffic Update: 2 hours travel time Wadsworth to Gate Road and 3 Hour wait on Gate road.',2h00m,180,2,00m,0,120
+901867541353639936,2017-08-27 18:02:32,b'1 hour 59 minutes travel time Wadsworth to Gate Road and 3 Hour wait on Gate road.',1h59m,180,1,59m,59,119
+901853701429743618,2017-08-27 17:07:32,b'Traffic Update: 2 hours travel time Wadsworth to Gate Road and 2  Hour wait on Gate road.',2h00m,120,2,00m,0,120
+901837918234226689,2017-08-27 16:04:49,b'Traffic Update: 1 hour 47 minutes travel time Wadsworth to Gate Road and 2  Hour wait on Gate road.',1h47m,120,1,47m,47,107
 901836856442195969,2017-08-27 16:00:36,b'Widespread Triple Digit Heat thru Monday...  moderate to high risk for heat related illnesses.  EXCESSIVE HEAT WARNING REMAINS IN EFFECT.',,,,,,
-901823474162819072,2017-08-27 15:07:25,b'Traffic Update: 1 hour 56 minutes travel time Wadsworth to Gate Road and 2 Hours 40 minutes wait on Gate road.',1h56m,160,,,,
-901808873274843137,2017-08-27 14:09:24,b'Traffic Update: 1 hour 59 minutes travel time Wadsworth to Gate Road and 2 Hours 40 minutes wait on Gate road.',1h59m,160,,,,
-901791792789676033,2017-08-27 13:01:32,b'Traffic Update: 1 hour 53 minutes travel time Wadsworth to Gate Road and a 1-2 hour wait at Gate.',1h53m,90,,,,
-901776764787200001,2017-08-27 12:01:49,b'Traffic Update: 1 hour 59 minutes travel time Wadsworth to Gate Road and a 1-2 hour wait at Gate.',1h59m,90,,,,
-901761614025596930,2017-08-27 11:01:37,b'Traffic Update: 2 hour 29 minutes travel time Wadsworth to Gate Road and a 1-2 hour wait at Gate.',2h29m,90,,,,
-901746334968905728,2017-08-27 10:00:54,b'Traffic Update: 2 hour 37 minutes travel time Wadsworth to Gate Road and a 1-2 hour wait at Gate.',2h37m,90,,,,
-901733582145699840,2017-08-27 9:10:14,b'Traffic Update: 2 hour 45 minutes travel time Wadsworth to Gate Road and a 2-3 hour wait at Gate.',2h45m,150,,,,
-901718990715834368,2017-08-27 8:12:15,b'Traffic Update: 2 hour 51 minutes travel time Wadsworth to Gate Road. And a 45 minute wait at Gate.',2h51m,45,,,,
-901701700163162112,2017-08-27 7:03:32,b'Traffic Update: 2 hour 38 minutes travel time Wadsworth to Gate Road. And a 30 minute wait at Gate.',2h38m,30,,,,
-901687183341486080,2017-08-27 6:05:51,b'Traffic Update: 2 hour 18 minutes travel time Wadsworth to Gate Road. And a 20 minute wait at Gate.',2h18m,20,,,,
-901671302813143042,2017-08-27 5:02:45,b'Traffic Update: 1 hour 58 minutes travel time Wadsworth to Gate Road. And a 10 minute wait at Gate.',1h58m,10,,,,
-901656455346053123,2017-08-27 4:03:45,b'Traffic Update: 1 hour 55 minutes travel time Wadsworth to Gate Road. And a 15 minute wait at Gate.',1h55m,15,,,,
-901641312834912257,2017-08-27 3:03:35,b'Traffic Update: 1 hour 53 minutes travel time Wadsworth to Gate Road. And a 35 minute wait at Gate.',1h53m,35,,,,
-901628618505375746,2017-08-27 2:13:08,b'Traffic Update: 2 hour 03 minutes travel time Wadsworth to Gate Road. And a 1 hour 15 minute wait at Gate.',2h03m,75,,,,
-901610262104592385,2017-08-27 1:00:12,b'Traffic Update: 1 hour 51 minutes travel time Wadsworth to Gate Road. And a 2:00 hours wait at Gate.',1h51m,120,,,,
-901594618604728324,2017-08-26 23:58:02,b'Traffic Update: 1 hour 47 minutes travel time Wadsworth to Gate Road. And a 2:15 hours wait at Gate.',1h47m,135,,,,
-901580171945402370,2017-08-26 23:00:38,b'1 hour 44 minutes travel time Wadsworth to Gate Road. 150 minutes wait at Gate.',1h44m,150,,,,
-901565040381374466,2017-08-26 22:00:30,b'2 hour 15 minutes travel time Wadsworth to Gate Road. 120 minutes wait at Gate.',2h15m,120,,,,
-901549484022411264,2017-08-26 20:58:41,b'1 hour 55 minutes travel time Wadsworth to Gate Road. 2:05 minutes wait at Gate.',1h55m,125,,,,
-901534473640181764,2017-08-26 19:59:02,b'2 hour 26 minutes travel time Wadsworth to Gate Road. 1:20 minutes wait at Gate.',2h26m,80,,,,
-901517400356552704,2017-08-26 18:51:12,b'2 hour 22 minutes travel time Wadsworth to Gate Road. 1:20minutes wait at Gate.',2h22m,90,,,,
-901503942441480194,2017-08-26 17:57:43,b'2 hour 11 minutes travel time Wadsworth to Gate Road. 1:05 minutes wait at Gate.\n0 replies 0 retweets 0 likes',2h11m,65,,,,
-901475291230588928,2017-08-26 16:03:52,b'1 hour 43 minutes travel time Wadsworth to Gate Road. 45 minutes wait at Gate.\n0 replies 0 retweets 0 likes',1h43m,45,,,,
-901461142027067393,2017-08-26 15:07:39,b'1 hour 43 minutes travel time Wadsworth to Gate Road. 35 minutes wait at Gate.',1h43m,35,,,,
-901449836330971139,2017-08-26 14:22:43,b'1 hour 35 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h35m,90,,,,
-901429517629218818,2017-08-26 13:01:59,b'Traffic update: 1 hour 35 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h35m,90,,,,
-901418210016284672,2017-08-26 12:17:03,b'Traffic update: 1 hour 36 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h36m,90,,,,
-901401003169390592,2017-08-26 11:08:41,b'Traffic update: 1 hour 32 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h32m,90,,,,
-901385647293964288,2017-08-26 10:07:39,b'Traffic update: 1 hour 31 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h31m,90,,,,
-901369613283471361,2017-08-26 9:03:57,b'Traffic update: 1 hour 33 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h33m,90,,,,
-901353983016611840,2017-08-26 8:01:50,b'Traffic update: 1 hour 36 minutes travel time Wadsworth to Gate Road. 3-4 hour wait at Gate.',1h36m,210,,,,
-901339871385714688,2017-08-26 7:05:46,b'Traffic update: 1 hour 37 minutes travel time Wadsworth to Gate Road. 3-4 hour wait at Gate.',1h37m,210,,,,
-901324103717724161,2017-08-26 6:03:06,b'Traffic update: 1 hour 47 minutes travel time Wadsworth to Gate Road. 3-4 hour wait at Gate.',1h47m,210,,,,
-901309717418520576,2017-08-26 5:05:56,b'Traffic update: 2 hour 02 minutes travel time Wadsworth to Gate Road. 3-4 hour wait at Gate.',2h02m,210,,,,
-901294983239659520,2017-08-26 4:07:23,b'Traffic update: 1 hour 46 minutes travel time Wadsworth to Gate Road. 3-4 hour wait at Gate.',1h46m,210,,,,
-901282975547097090,2017-08-26 3:19:41,b'Traffic update: 1 hour 41 minutes travel time Wadsworth to Gate Road. 2-3 hour wait at Gate.',1h41m,150,,,,
+901823474162819072,2017-08-27 15:07:25,b'Traffic Update: 1 hour 56 minutes travel time Wadsworth to Gate Road and 2 Hours 40 minutes wait on Gate road.',1h56m,160,1,56m,56,116
+901808873274843137,2017-08-27 14:09:24,b'Traffic Update: 1 hour 59 minutes travel time Wadsworth to Gate Road and 2 Hours 40 minutes wait on Gate road.',1h59m,160,1,59m,59,119
+901791792789676033,2017-08-27 13:01:32,b'Traffic Update: 1 hour 53 minutes travel time Wadsworth to Gate Road and a 1-2 hour wait at Gate.',1h53m,90,1,53m,53,113
+901776764787200001,2017-08-27 12:01:49,b'Traffic Update: 1 hour 59 minutes travel time Wadsworth to Gate Road and a 1-2 hour wait at Gate.',1h59m,90,1,59m,59,119
+901761614025596930,2017-08-27 11:01:37,b'Traffic Update: 2 hour 29 minutes travel time Wadsworth to Gate Road and a 1-2 hour wait at Gate.',2h29m,90,2,29m,29,149
+901746334968905728,2017-08-27 10:00:54,b'Traffic Update: 2 hour 37 minutes travel time Wadsworth to Gate Road and a 1-2 hour wait at Gate.',2h37m,90,2,37m,37,157
+901733582145699840,2017-08-27 9:10:14,b'Traffic Update: 2 hour 45 minutes travel time Wadsworth to Gate Road and a 2-3 hour wait at Gate.',2h45m,150,2,45m,45,165
+901718990715834368,2017-08-27 8:12:15,b'Traffic Update: 2 hour 51 minutes travel time Wadsworth to Gate Road. And a 45 minute wait at Gate.',2h51m,45,2,51m,51,171
+901701700163162112,2017-08-27 7:03:32,b'Traffic Update: 2 hour 38 minutes travel time Wadsworth to Gate Road. And a 30 minute wait at Gate.',2h38m,30,2,38m,38,158
+901687183341486080,2017-08-27 6:05:51,b'Traffic Update: 2 hour 18 minutes travel time Wadsworth to Gate Road. And a 20 minute wait at Gate.',2h18m,20,2,18m,18,138
+901671302813143042,2017-08-27 5:02:45,b'Traffic Update: 1 hour 58 minutes travel time Wadsworth to Gate Road. And a 10 minute wait at Gate.',1h58m,10,1,58m,58,118
+901656455346053123,2017-08-27 4:03:45,b'Traffic Update: 1 hour 55 minutes travel time Wadsworth to Gate Road. And a 15 minute wait at Gate.',1h55m,15,1,55m,55,115
+901641312834912257,2017-08-27 3:03:35,b'Traffic Update: 1 hour 53 minutes travel time Wadsworth to Gate Road. And a 35 minute wait at Gate.',1h53m,35,1,53m,53,113
+901628618505375746,2017-08-27 2:13:08,b'Traffic Update: 2 hour 03 minutes travel time Wadsworth to Gate Road. And a 1 hour 15 minute wait at Gate.',2h03m,75,2,03m,3,123
+901610262104592385,2017-08-27 1:00:12,b'Traffic Update: 1 hour 51 minutes travel time Wadsworth to Gate Road. And a 2:00 hours wait at Gate.',1h51m,120,1,51m,51,111
+901594618604728324,2017-08-26 23:58:02,b'Traffic Update: 1 hour 47 minutes travel time Wadsworth to Gate Road. And a 2:15 hours wait at Gate.',1h47m,135,1,47m,47,107
+901580171945402370,2017-08-26 23:00:38,b'1 hour 44 minutes travel time Wadsworth to Gate Road. 150 minutes wait at Gate.',1h44m,150,1,44m,44,104
+901565040381374466,2017-08-26 22:00:30,b'2 hour 15 minutes travel time Wadsworth to Gate Road. 120 minutes wait at Gate.',2h15m,120,2,15m,15,135
+901549484022411264,2017-08-26 20:58:41,b'1 hour 55 minutes travel time Wadsworth to Gate Road. 2:05 minutes wait at Gate.',1h55m,125,1,55m,55,115
+901534473640181764,2017-08-26 19:59:02,b'2 hour 26 minutes travel time Wadsworth to Gate Road. 1:20 minutes wait at Gate.',2h26m,80,2,26m,26,146
+901517400356552704,2017-08-26 18:51:12,b'2 hour 22 minutes travel time Wadsworth to Gate Road. 1:20minutes wait at Gate.',2h22m,90,2,22m,22,142
+901503942441480194,2017-08-26 17:57:43,b'2 hour 11 minutes travel time Wadsworth to Gate Road. 1:05 minutes wait at Gate.\n0 replies 0 retweets 0 likes',2h11m,65,2,11m,11,131
+901475291230588928,2017-08-26 16:03:52,b'1 hour 43 minutes travel time Wadsworth to Gate Road. 45 minutes wait at Gate.\n0 replies 0 retweets 0 likes',1h43m,45,1,43m,43,103
+901461142027067393,2017-08-26 15:07:39,b'1 hour 43 minutes travel time Wadsworth to Gate Road. 35 minutes wait at Gate.',1h43m,35,1,43m,43,103
+901449836330971139,2017-08-26 14:22:43,b'1 hour 35 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h35m,90,1,35m,35,95
+901429517629218818,2017-08-26 13:01:59,b'Traffic update: 1 hour 35 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h35m,90,1,35m,35,95
+901418210016284672,2017-08-26 12:17:03,b'Traffic update: 1 hour 36 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h36m,90,1,36m,36,96
+901401003169390592,2017-08-26 11:08:41,b'Traffic update: 1 hour 32 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h32m,90,1,32m,32,92
+901385647293964288,2017-08-26 10:07:39,b'Traffic update: 1 hour 31 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h31m,90,1,31m,31,91
+901369613283471361,2017-08-26 9:03:57,b'Traffic update: 1 hour 33 minutes travel time Wadsworth to Gate Road. 1-2 hour wait at Gate.',1h33m,90,1,33m,33,93
+901353983016611840,2017-08-26 8:01:50,b'Traffic update: 1 hour 36 minutes travel time Wadsworth to Gate Road. 3-4 hour wait at Gate.',1h36m,210,1,36m,36,96
+901339871385714688,2017-08-26 7:05:46,b'Traffic update: 1 hour 37 minutes travel time Wadsworth to Gate Road. 3-4 hour wait at Gate.',1h37m,210,1,37m,37,97
+901324103717724161,2017-08-26 6:03:06,b'Traffic update: 1 hour 47 minutes travel time Wadsworth to Gate Road. 3-4 hour wait at Gate.',1h47m,210,1,47m,47,107
+901309717418520576,2017-08-26 5:05:56,b'Traffic update: 2 hour 02 minutes travel time Wadsworth to Gate Road. 3-4 hour wait at Gate.',2h02m,210,2,02m,2,122
+901294983239659520,2017-08-26 4:07:23,b'Traffic update: 1 hour 46 minutes travel time Wadsworth to Gate Road. 3-4 hour wait at Gate.',1h46m,210,1,46m,46,106
+901282975547097090,2017-08-26 3:19:41,b'Traffic update: 1 hour 41 minutes travel time Wadsworth to Gate Road. 2-3 hour wait at Gate.',1h41m,150,1,41m,41,101
 901270321877184514,2017-08-26 2:29:24,b'2) Burning Man attendees should use I-80 east to Wadsworth until the intersection reopens.',,,,,,
 901270219548655618,2017-08-26 2:28:59,"b'1) Pyramid Way in Sparks (Hwy 445) at McCarran Blvd. will be closed tonight thru Sunday, August 27 at 6 am.'",,,,,,
 901269414326276096,2017-08-26 2:25:47,b'To speed your trip through Gate: 1. Have tickets ready 2. Have vehicle pass on windshield. 3. Be prepared for vehicle search.',,,,,,
-901268987992059904,2017-08-26 2:24:06,b'Traffic update: 1 hour 49 minutes travel time Wadsworth to Gate Road. 2-3 hour wait at Gate.',1h49m,150,,,,
+901268987992059904,2017-08-26 2:24:06,b'Traffic update: 1 hour 49 minutes travel time Wadsworth to Gate Road. 2-3 hour wait at Gate.',1h49m,150,1,49m,49,109
 900819735306051584,2017-08-24 20:38:55,"b'Speed limit on Gate Road is 10mph &amp; strictly enforced. We\xe2\x80\x99re getting reports of speeding, causing a visibility hazard. Please be safe.'",,,,,,
 900773582120382465,2017-08-24 17:35:32,b'The Nevada Dept. of Transportation is asking burners to give a wide berth to NDOT vehicles w/yellow strobes on the side of the roads to BM.',,,,,,
 900428444424691712,2017-08-23 18:44:04,b'Please do not use Hwy 445 on the west side of Pyramid Lake (North or of the 446 turnoff). It is blocked due to storm damage.',,,,,,
@@ -277,18 +277,18 @@ id,created_at,text,Wadsworth to Gate,Gate Wait,,,,
 772934214559764480,2016-09-05 23:07:31,b'Still seeing heavy traffic exiting out of the BRC. the wait is 5-6 hours!  Best to wait and get some rest.',,,,,,
 772919148158390277,2016-09-05 22:07:39,"b'The high volumes of ""prime time"" traffic continue and the wait time is now 5 to 6 hours to exit BRC. Exiting Tuesday is recommended.'",,,,,,
 772901655687725056,2016-09-05 20:58:09,b'The wait time to reach the pavement from BRC is now 4 to 5 hours.',,,,,,
-772888140235145216,2016-09-05 20:04:26,b'Still holding at 5-6 hours exit.',,,,,,6
-772879973552050176,2016-09-05 19:31:59,b'Prime time to exit BRC. Wait time to reach County Road 34 is 5 to 6 hours.',,,,,,6
-772857259219005440,2016-09-05 18:01:44,b'Exit out of the BRC is still about 3-4 hours.',,,,,,4
-772845328064090112,2016-09-05 17:14:19,b'Extreme traffic flow out of the BRC. The  wait time to the gravel is 3-4 hours.',,,,,,4
-772842696025059328,2016-09-05 17:03:52,b'BRC exit time is 3 to 4 hours.',,,,,,4
+772888140235145216,2016-09-05 20:04:26,b'Still holding at 5-6 hours exit.',,,,,,
+772879973552050176,2016-09-05 19:31:59,b'Prime time to exit BRC. Wait time to reach County Road 34 is 5 to 6 hours.',,,,,,
+772857259219005440,2016-09-05 18:01:44,b'Exit out of the BRC is still about 3-4 hours.',,,,,,
+772845328064090112,2016-09-05 17:14:19,b'Extreme traffic flow out of the BRC. The  wait time to the gravel is 3-4 hours.',,,,,,
+772842696025059328,2016-09-05 17:03:52,b'BRC exit time is 3 to 4 hours.',,,,,,
 772827565601894400,2016-09-05 16:03:44,b'Exit time at BRC is 4 hours.',,,,,,
 772814055178248192,2016-09-05 15:10:03,b'Exit time for BRC is 4 hours.',,,,,,
-772796755276537856,2016-09-05 14:01:18,b'BRC exiting time is estimated at 4 to 5 hours.',,,,,,5
-772779935215648770,2016-09-05 12:54:28,b'BRC exit is estimated at 4 to 5 hours.',,,,,,5
-7.72765E+17,2016-09-05 11:56:57,b'Exiting BRC is estimated at 6 to 7 hours. Get plenty of rest before leaving the city.',,,,,,7
+772796755276537856,2016-09-05 14:01:18,b'BRC exiting time is estimated at 4 to 5 hours.',,,,,,
+772779935215648770,2016-09-05 12:54:28,b'BRC exit is estimated at 4 to 5 hours.',,,,,,
+7.72765E+17,2016-09-05 11:56:57,b'Exiting BRC is estimated at 6 to 7 hours. Get plenty of rest before leaving the city.',,,,,,
 772751047328542720,2016-09-05 10:59:41,b'BRC exiting time is up to 7 hours.',,,,,,
-772735222416748545,2016-09-05 9:56:48,b'Exiting BRC is approximately between 7 and 8 hours.',,,,,,8
+772735222416748545,2016-09-05 9:56:48,b'Exiting BRC is approximately between 7 and 8 hours.',,,,,,
 772722112108781568,2016-09-05 9:04:42,b'BRC exiting time is currently up to 8 hours.  Please get plenty of rest before leaving the city.  Drive safe and follow all speed limits.',,,,,,
 772711125439815681,2016-09-05 8:21:03,b'If you are still in the city we suggest you wait until morning to start your exit.',,,,,,
 772711063250833409,2016-09-05 8:20:48,b'We recommend using a designated driver for Gate Road and switching to a fresh driver.',,,,,,
@@ -305,16 +305,16 @@ id,created_at,text,Wadsworth to Gate,Gate Wait,,,,
 772648270229217280,2016-09-05 4:11:17,b'BRC exiting is taking longer than 5 hours.  Please be advised to stay in the city until traffic is moving smoothly on Exodus road.',,,,,,
 772630525160726530,2016-09-05 3:00:46,b'Exiting BRC is taking up to 5 hours.  Please drive safe and follow all speed limits as you drive to your next destination.',,,,,,
 772614654061219840,2016-09-05 1:57:42,b'It is 5-6 hours to exit BRC. Is there a vehicle broke down in the lane? Please pull/push vehicle to the outside lane and notify staff.',,,,,,
-772602168536735744,2016-09-05 1:08:05,b'BRC exiting is taking between 4-5 hours.  Plan on take your time and get plenty of rest before leaving the city.',,,,,,5
-772580232213651456,2016-09-04 23:40:55,b'Exodus is currently running at 3 to 4 hours.',,,,,,4
-772561635030343682,2016-09-04 22:27:01,"b'The Exodus time from BRC, through pulsing, and out onto the pavement is now 2 to 3 hours.'",,,,,,3
-772557295267958785,2016-09-04 22:09:47,b'Pulsing out of BRC and to Country Road 34 is taking 1-2 hours currently.',,,,,,2
+772602168536735744,2016-09-05 1:08:05,b'BRC exiting is taking between 4-5 hours.  Plan on take your time and get plenty of rest before leaving the city.',,,,,,
+772580232213651456,2016-09-04 23:40:55,b'Exodus is currently running at 3 to 4 hours.',,,,,,
+772561635030343682,2016-09-04 22:27:01,"b'The Exodus time from BRC, through pulsing, and out onto the pavement is now 2 to 3 hours.'",,,,,,
+772557295267958785,2016-09-04 22:09:47,b'Pulsing out of BRC and to Country Road 34 is taking 1-2 hours currently.',,,,,,
 772551769880535040,2016-09-04 21:47:49,b'Small pothole repair happening on mile marker 3-4 on CR 34 from 2:45pm - 3:45pm. please drive slow around work crews.',,,,,,
 7.72546E+17,2016-09-04 21:23:33,b'It is currently taking between two and three hours to make it through pulsing and to reach County Road 34.',,,,,,
 772524463262830592,2016-09-04 19:59:19,b'Pulsing has started on Gate road. The total time to get from BRC to County Road 34 is approximately one hour.',,,,,,
-772509067046559744,2016-09-04 18:58:08,b'The time to exit BRC and reach County Road 34 remains at under one hour.',,,,,,1
-772494709595840512,2016-09-04 18:01:05,b'Wait times to leave the city are still under 1 hour.',,,,,,1
-772478042018942976,2016-09-04 16:54:51,b'Traffic out of the BRC is still holding to under a hour.',,,,,,1
+772509067046559744,2016-09-04 18:58:08,b'The time to exit BRC and reach County Road 34 remains at under one hour.',,,,,,
+772494709595840512,2016-09-04 18:01:05,b'Wait times to leave the city are still under 1 hour.',,,,,,
+772478042018942976,2016-09-04 16:54:51,b'Traffic out of the BRC is still holding to under a hour.',,,,,,
 772465172476600323,2016-09-04 16:03:43,b'Traffic is a steady flow out of BRC.',,,,,,
 772449467043766272,2016-09-04 15:01:19,b'Their is currently no wait out of BRC.\nDrive safely !',,,,,,
 772434600433811457,2016-09-04 14:02:14,b'No waiting at BRC exit at this time.',,,,,,
@@ -435,30 +435,30 @@ id,created_at,text,Wadsworth to Gate,Gate Wait,,,,
 641159151532380160,2015-09-08 8:00:28,"b'Traffic on Gate Road flowing freely, 8 mile to Gerlach 0:20, Gerlach to Wadsworth 2:09.'",,,,,,
 641146148862869504,2015-09-08 7:08:48,"b'Gate road Greeters to Gravel &lt;1 hour, 8 mile to Wadsworth 2:21.'",,,,,,
 641125770417467392,2015-09-08 5:47:49,"b'We are no longer pulsing.  Gate road Greeters to Gravel 1-2 hours, 8 mile to Gerlach 0:19, Gerlach to Wadsworth 1:51.'",,,,,,
-641085608429944836,2015-09-08 3:08:14,b'Gate road to 8 mile road 2-3 hours. 8 mile to Gerlach  0:21. Gerlach to Wadsworth 1:39.',,,,,,3
-641066530856308736,2015-09-08 1:52:26,b'Gate Rd travel time 2-3 hours.  8 Mile Rd to Gerlach 19 min.  Gerlach to Wadsworth less than 2 hours.',,,,,,3
-641051371207135232,2015-09-08 0:52:11,b'Gate Rd travel time 2-3 hours.  8 Mile Rd to Gerlach 13 min.  Gerlach to Wadsworth less than 2 hours.',,,,,,3
-641037565328424960,2015-09-07 23:57:20,b'Gate Rd travel time 2-3 hours.  8 Mile Rd to Gerlach 23 min.  Gerlach to Wadsworth less than 2 hours.',,,,,,3
-641025283261263872,2015-09-07 23:08:31,b'Gate Rd travel time 2-3 hours.  8 Mile Rd to Gerlach 17 min.  Gerlach to Wadsworth less than 2 hours.',,,,,,3
-641010382912385025,2015-09-07 22:09:19,b'Gate Rd travel time 2-3 hours.  8 Mile Rd to Gerlach less than 1 hour.  Gerlach to Wadsworth less than 2 hours.',,,,,,3
+641085608429944836,2015-09-08 3:08:14,b'Gate road to 8 mile road 2-3 hours. 8 mile to Gerlach  0:21. Gerlach to Wadsworth 1:39.',,,,,,
+641066530856308736,2015-09-08 1:52:26,b'Gate Rd travel time 2-3 hours.  8 Mile Rd to Gerlach 19 min.  Gerlach to Wadsworth less than 2 hours.',,,,,,
+641051371207135232,2015-09-08 0:52:11,b'Gate Rd travel time 2-3 hours.  8 Mile Rd to Gerlach 13 min.  Gerlach to Wadsworth less than 2 hours.',,,,,,
+641037565328424960,2015-09-07 23:57:20,b'Gate Rd travel time 2-3 hours.  8 Mile Rd to Gerlach 23 min.  Gerlach to Wadsworth less than 2 hours.',,,,,,
+641025283261263872,2015-09-07 23:08:31,b'Gate Rd travel time 2-3 hours.  8 Mile Rd to Gerlach 17 min.  Gerlach to Wadsworth less than 2 hours.',,,,,,
+641010382912385025,2015-09-07 22:09:19,b'Gate Rd travel time 2-3 hours.  8 Mile Rd to Gerlach less than 1 hour.  Gerlach to Wadsworth less than 2 hours.',,,,,,
 640994428027441152,2015-09-07 21:05:55,b'Gate Rd travel time about 1 hour. 8 Mile Rd to Gerlach about 40 minutes.  Gerlach to Wadsworth about 2 hours.',,,,,,
-640978612523429888,2015-09-07 20:03:04,b'Gate Rd travel time 1.5-2 hours.  8 Mile Rd to Gerlach about 30 minutes.  Gerlach to Wadsworth under 2 hours.',,,,,,2
+640978612523429888,2015-09-07 20:03:04,b'Gate Rd travel time 1.5-2 hours.  8 Mile Rd to Gerlach about 30 minutes.  Gerlach to Wadsworth under 2 hours.',,,,,,
 640964276006449152,2015-09-07 19:06:06,b'Gate road travel time about 1 hour. 8 Mile to Gerlach 0:25. Gerlach to Wadsworth 1:48.',,,,,,
 640948470392590336,2015-09-07 18:03:18,b'Gate road travel time &lt; 1 hour. 8 Mile to Gerlach 0:19. Gerlach to Wadsworth 1:41.',,,,,,
 640932888876224512,2015-09-07 17:01:23,b'No change from last tweet!',,,,,,
-640918324503834624,2015-09-07 16:03:30,b'Gate road travel time remains less than 1 hour. 8 Mile to Gerlach 0:17. Gerlach to Wadsworth 1:42.',,,,,,1
-640901232958160896,2015-09-07 14:55:35,b'Gate road travel time less than 1 hour. 8 Mile to Gerlach 0:17. Gerlach to Wadsworth 1:41.',,,,,,1
-640887995847958528,2015-09-07 14:02:59,b'Gate road travel time less than 1 hour. 8 Mile to Gerlach 0:17. Gerlach to Wadsworth 1:39.',,,,,,1
-640870365250457601,2015-09-07 12:52:56,b'Gate road travel time under 1 hour. 8 mile to Gerlach 0:16. Gerlach to Wadsworth 1:48.',,,,,,1
-640842837215473665,2015-09-07 11:03:33,b'Gate road travel time under 1 hour.  8 mile to Gerlach 0:25.  Gerlach to Wadsworth 1:56.',,,,,,3
-640829484732575744,2015-09-07 10:10:29,"b'Gate road from Greeters to Gravel 2-3 hours. 8 mile to Gerlach 0:19, Gerlach to Wadsworth 2:13.'",,,,,,3
+640918324503834624,2015-09-07 16:03:30,b'Gate road travel time remains less than 1 hour. 8 Mile to Gerlach 0:17. Gerlach to Wadsworth 1:42.',,,,,,
+640901232958160896,2015-09-07 14:55:35,b'Gate road travel time less than 1 hour. 8 Mile to Gerlach 0:17. Gerlach to Wadsworth 1:41.',,,,,,
+640887995847958528,2015-09-07 14:02:59,b'Gate road travel time less than 1 hour. 8 Mile to Gerlach 0:17. Gerlach to Wadsworth 1:39.',,,,,,
+640870365250457601,2015-09-07 12:52:56,b'Gate road travel time under 1 hour. 8 mile to Gerlach 0:16. Gerlach to Wadsworth 1:48.',,,,,,
+640842837215473665,2015-09-07 11:03:33,b'Gate road travel time under 1 hour.  8 mile to Gerlach 0:25.  Gerlach to Wadsworth 1:56.',,,,,,
+640829484732575744,2015-09-07 10:10:29,"b'Gate road from Greeters to Gravel 2-3 hours. 8 mile to Gerlach 0:19, Gerlach to Wadsworth 2:13.'",,,,,,
 640824781294583808,2015-09-07 9:51:48,b'Accident north of Nixon reported as cleared.',,,,,,
-640811990584131584,2015-09-07 9:00:58,b'Gate road from Greeters to Gravel 5-6 hours.  8 mile to Gerlach 0:21.  Gerlach to Wadsworth 2:04.',,,,,,6
-640795560228720640,2015-09-07 7:55:41,b'Gate road from Greeters to Gravel 5-6 hours.  8 mile to Gerlach 0:16.  Gerlach to Wadsworth 2:01.',,,,,,6
+640811990584131584,2015-09-07 9:00:58,b'Gate road from Greeters to Gravel 5-6 hours.  8 mile to Gerlach 0:21.  Gerlach to Wadsworth 2:04.',,,,,,
+640795560228720640,2015-09-07 7:55:41,b'Gate road from Greeters to Gravel 5-6 hours.  8 mile to Gerlach 0:16.  Gerlach to Wadsworth 2:01.',,,,,,
 640795384583843840,2015-09-07 7:54:59,b'Injury accident 10 miles north of Nixon on Highway 447 blocking southbound lane. Traffic is being directed around it using the other lane.',,,,,,
-640780230165053440,2015-09-07 6:54:46,"b'5-6 hours on Gate Road from Greeters to gravel. 8 mile to Gerlach 0:17, Gerlach to Wadsworth 1:47.'",,,,,,6
-640767599165353984,2015-09-07 6:04:35,"b'4 to 5 hours on gate road from greeters to gravel. 8 mile to Gerlach 0:19, Gerlach to Wadsworth 1:45'",,,,,,5
-640750398232395776,2015-09-07 4:56:14,"b'Travel time from within city to gravel 3-5 hours with congestion at the Greeters. 8 mile to Gerlach 0:20, Gerlach to Wadsworth 1:45.'",,,,,,5
+640780230165053440,2015-09-07 6:54:46,"b'5-6 hours on Gate Road from Greeters to gravel. 8 mile to Gerlach 0:17, Gerlach to Wadsworth 1:47.'",,,,,,
+640767599165353984,2015-09-07 6:04:35,"b'4 to 5 hours on gate road from greeters to gravel. 8 mile to Gerlach 0:19, Gerlach to Wadsworth 1:45'",,,,,,
+640750398232395776,2015-09-07 4:56:14,"b'Travel time from within city to gravel 3-5 hours with congestion at the Greeters. 8 mile to Gerlach 0:20, Gerlach to Wadsworth 1:45.'",,,,,,
 640733176688541696,2015-09-07 3:47:48,"b'8 mile to Gerlach 0:30, Gerlach to Wadsworth 1:43, 2-3 hours in the Pulsing Zone on Gate Road.'",,,,,,
 640718841450901504,2015-09-07 2:50:50,"b'8 mile to Gerlach 0:32, Gerlach to Wadsworth 1:49, 1-2 hours in the Pulsing Zone on Gate Road.'",,,,,,
 640703217152593921,2015-09-07 1:48:45,"b'8 mile to Gerlach 0:34, Gerlach to Wadsworth 1:46, 1-2 hours in the Pulsing Zone on Gate Road.'",,,,,,
@@ -469,74 +469,74 @@ id,created_at,text,Wadsworth to Gate,Gate Wait,,,,
 640646170272997378,2015-09-06 22:02:04,b'Gate Rd about 1 hour.  8 Mile Rd to Gerlach about 45 minutes.  Gerlach to Wadsworth about 2 hours.',,,,,,
 640636668714717184,2015-09-06 21:24:18,b'Gate Rd about 1 hour. 8 Mile to Gerlach 1/2 hour. Gerlach to Wadsworth 1-2 hours.',,,,,,
 640615618568327168,2015-09-06 20:00:40,b'8 Mile Rd to Gerlach: 16 minutes.  Gerlach to Wadsworth: 1hr 30 min.  Wait on Gate Road: 45 minutes',,,,,,
-640599506174611456,2015-09-06 18:56:38,b'8 Mile Rd to Gerlach: 16 minutes.  Gerlach to Wadsworth: 1hr 38 min.  Wait on Gate Road: 15-20 minutes',,,,,,0.5
-640584028777648128,2015-09-06 17:55:08,"b'8  mile to Gerlach 0:14, Gerlach to Wadsworth 1:14. No wait on gate road.'",,,,,,1
-640568208605339649,2015-09-06 16:52:16,"b'8  mile to Gerlach 0:15, Gerlach to Wadsworth 1:31. No wait on gate road.'",,,,,,1
-640553821744164864,2015-09-06 15:55:06,"b'8  mile to Gerlach 0:18, Gerlach to Wadsworth 1:26. No wait on gate road.'",,,,,,1
-640538527365660673,2015-09-06 14:54:20,"b'8 mile to Gerlach 0:15, Gerlach to Wadsworth 1:32. No wait on gate road.'",,,,,,1
-640523830113374208,2015-09-06 13:55:56,"b'8 mile to Gerlach 0:15, Gerlach to Wadsworth 1:25. No wait on gate road.'",,,,,,1
-640509250133889024,2015-09-06 12:57:59,"b'8 mile to Gerlach 0:15, Gerlach to Wadsworth 1:22.  Gate road remains clear (clear=under 1 hour).'",,,,,,1
+640599506174611456,2015-09-06 18:56:38,b'8 Mile Rd to Gerlach: 16 minutes.  Gerlach to Wadsworth: 1hr 38 min.  Wait on Gate Road: 15-20 minutes',,,,,,
+640584028777648128,2015-09-06 17:55:08,"b'8  mile to Gerlach 0:14, Gerlach to Wadsworth 1:14. No wait on gate road.'",,,,,,
+640568208605339649,2015-09-06 16:52:16,"b'8  mile to Gerlach 0:15, Gerlach to Wadsworth 1:31. No wait on gate road.'",,,,,,
+640553821744164864,2015-09-06 15:55:06,"b'8  mile to Gerlach 0:18, Gerlach to Wadsworth 1:26. No wait on gate road.'",,,,,,
+640538527365660673,2015-09-06 14:54:20,"b'8 mile to Gerlach 0:15, Gerlach to Wadsworth 1:32. No wait on gate road.'",,,,,,
+640523830113374208,2015-09-06 13:55:56,"b'8 mile to Gerlach 0:15, Gerlach to Wadsworth 1:25. No wait on gate road.'",,,,,,
+640509250133889024,2015-09-06 12:57:59,"b'8 mile to Gerlach 0:15, Gerlach to Wadsworth 1:22.  Gate road remains clear (clear=under 1 hour).'",,,,,,
 640492706213466112,2015-09-06 11:52:15,b'Please carefully observe speed limits through all towns on your trip through 447; for your safety and the safety of the residents.',,,,,,
-640492477607120896,2015-09-06 11:51:21,"b'8 mile to Gerlach 0:14, Gerlach to Wadsworth 1:38.  Gate road still clear.'",,,,,,1
-640477516671483904,2015-09-06 10:51:54,"b'8 mile to Gerlach 0:14, Gerlach to Wadsworth 1:38. Gate Road is still clear.'",,,,,,1
-640463907262304256,2015-09-06 9:57:49,"b'8 mile to Gerlach 0:15, Gerlach to Wadsworth 1:35. There is no wait on Gate Road.'",,,,,,1
+640492477607120896,2015-09-06 11:51:21,"b'8 mile to Gerlach 0:14, Gerlach to Wadsworth 1:38.  Gate road still clear.'",,,,,,
+640477516671483904,2015-09-06 10:51:54,"b'8 mile to Gerlach 0:14, Gerlach to Wadsworth 1:38. Gate Road is still clear.'",,,,,,
+640463907262304256,2015-09-06 9:57:49,"b'8 mile to Gerlach 0:15, Gerlach to Wadsworth 1:35. There is no wait on Gate Road.'",,,,,,
 640447608155017216,2015-09-06 8:53:03,"b'8 mile to Gerlach 0:17, Gerlach to Wadsworth 1:37. Traffic flowing freely on Gate Road.'",,,,,,
 640433456783032320,2015-09-06 7:56:49,"b'Welcome to Exodus!  8 mile to Gerlach 0:15, Gerlach to Wadsworth 1:35.  Traffic flowing freely on Gate Road.'",,,,,,
 640418762097758209,2015-09-06 6:58:25,"b'8 mile to Gerlach 0:15, Gerlach to Wadsworth 1:33.  Traffic steady but flowing on Gate Road.'",,,,,,
 638607287972564992,2015-09-01 7:00:16,"b'447 and 34 still steady but flowing freely.  Our traffic updates will be suspended until Exodus, barring anomalies.  Have a great burn!'",,,,,,
-638590288483651584,2015-09-01 5:52:43,"b'Wadsworth to Gerlach 1:37, Gerlach to 8 mile 0:13, No wait at the Gate.'",1h50m,0,,,,
+638590288483651584,2015-09-01 5:52:43,"b'Wadsworth to Gerlach 1:37, Gerlach to 8 mile 0:13, No wait at the Gate.'",1h50m,0,1,50m,50,110
 638537384909340672,2015-09-01 2:22:30,b'Traffic freely flowing from Wadsworth to 8 mile.  Wait less than 30 minutes at the Gate.',,15,,,,
-638514655204249600,2015-09-01 0:52:11,b'Wadsworth to Gerlach 1 hour 20 min.  Gerlach  to 8 Mile ~12 min.  8 Mile to Gate &lt; 1/2 hour.',0h30m,,,,,
-638500278916943872,2015-08-31 23:55:03,b'Wadsworth to Gerlach 1 1/2 hour.  Gerlach  to 8 Mile ~16 min.  8 Mile to Gate &lt; 1/2 hour.',0h30m,,,,,
-638491736935821312,2015-08-31 23:21:07,b'Wadsworth to Gerlach 1 1/2 hour.  Gerlach  to 8 Mile ~15 min.  8 Mile to Gate &lt; 1/2 hour.',0h30m,,,,,
+638514655204249600,2015-09-01 0:52:11,b'Wadsworth to Gerlach 1 hour 20 min.  Gerlach  to 8 Mile ~12 min.  8 Mile to Gate &lt; 1/2 hour.',0h30m,,0,30m,30,30
+638500278916943872,2015-08-31 23:55:03,b'Wadsworth to Gerlach 1 1/2 hour.  Gerlach  to 8 Mile ~16 min.  8 Mile to Gate &lt; 1/2 hour.',0h30m,,0,30m,30,30
+638491736935821312,2015-08-31 23:21:07,b'Wadsworth to Gerlach 1 1/2 hour.  Gerlach  to 8 Mile ~15 min.  8 Mile to Gate &lt; 1/2 hour.',0h30m,,0,30m,30,30
 638479410824282113,2015-08-31 22:32:08,b'Gerlach gas station has reopened.',,,,,,
 638478056378626048,2015-08-31 22:26:45,b'Vehicle fire near Gerlach gas station. Shell station in Gerlach is closed till fire is cleaned up. Will update when it re-opens.',,,,,,
-638474154975457280,2015-08-31 22:11:15,b'Wadsworth to Gate 2 to 3 hours.',2h30m,,,,,
-638455716290822144,2015-08-31 20:57:59,b'Wadsworth to Gate about 2 hours.',2h00m,,,,,
-638442103123513344,2015-08-31 20:03:53,b'Wadsworth to 8 Mile = 2 hours. 8 Mile to Gate &lt; 1 hour.',2h00m,60,,,,
-638424872167718912,2015-08-31 18:55:25,b'Wadsworth to 8 Mile Rd. &lt; 2 hours.  8 Mile to Gate &lt; 2 hours',2h00m,120,,,,
-638409981939748864,2015-08-31 17:56:15,b'Wadsworth to 8 Mile Rd. less than 2 hours.  8 Mile to Gate less than 1 hour',1h30m,60,,,,
-638397707363618816,2015-08-31 17:07:28,b'Wadsworth to 8 Mile Rd. &lt; 2 hours.  8 Mile to Gate about 2 hours',2h00m,120,,,,
-638379488057815043,2015-08-31 15:55:05,b'Wadsworth to 8 Mile Rd. about 2 hours.  8 Mile to Gate 1.5-2 hours',2h00m,105,,,,
-638362850285649920,2015-08-31 14:48:58,b'Wadsworth to 8 Mile about 2 hours. 8 Mile to Gate 2-3 hours.',2h00m,150,,,,
+638474154975457280,2015-08-31 22:11:15,b'Wadsworth to Gate 2 to 3 hours.',2h30m,,2,30m,30,150
+638455716290822144,2015-08-31 20:57:59,b'Wadsworth to Gate about 2 hours.',2h00m,,2,00m,0,120
+638442103123513344,2015-08-31 20:03:53,b'Wadsworth to 8 Mile = 2 hours. 8 Mile to Gate &lt; 1 hour.',2h00m,60,2,00m,0,120
+638424872167718912,2015-08-31 18:55:25,b'Wadsworth to 8 Mile Rd. &lt; 2 hours.  8 Mile to Gate &lt; 2 hours',2h00m,120,2,00m,0,120
+638409981939748864,2015-08-31 17:56:15,b'Wadsworth to 8 Mile Rd. less than 2 hours.  8 Mile to Gate less than 1 hour',1h30m,60,1,30m,30,90
+638397707363618816,2015-08-31 17:07:28,b'Wadsworth to 8 Mile Rd. &lt; 2 hours.  8 Mile to Gate about 2 hours',2h00m,120,2,00m,0,120
+638379488057815043,2015-08-31 15:55:05,b'Wadsworth to 8 Mile Rd. about 2 hours.  8 Mile to Gate 1.5-2 hours',2h00m,105,2,00m,0,120
+638362850285649920,2015-08-31 14:48:58,b'Wadsworth to 8 Mile about 2 hours. 8 Mile to Gate 2-3 hours.',2h00m,150,2,00m,0,120
 638350317352914944,2015-08-31 13:59:10,b'Current travel time between Wadsworth and Gate is approximately 3 hours.',,,,,,
 638336627987746816,2015-08-31 13:04:46,b'Travel time between Wadsworth &amp; Gerlach has dropped below three hours. Recommended driving restrictions on Highway 447 are lifted.',,,,,,
-638332888992251904,2015-08-31 12:49:55,"b'Wadsworth to Gerlach 2:20, Gerlach to 8-mile 0:15, Gate Road wait at 90 minutes.'",2h35m,90,,,,
+638332888992251904,2015-08-31 12:49:55,"b'Wadsworth to Gerlach 2:20, Gerlach to 8-mile 0:15, Gate Road wait at 90 minutes.'",2h35m,90,2,35m,35,155
 638328233251897344,2015-08-31 12:31:25,"b""Please, for everyone's safety and to keep traffic flowing, remain in your vehicle at all times while on or near the roadway.""",,,,,,
 638328034672533504,2015-08-31 12:30:37,b'447 is flowing steadily and we invite Burners to resume their trip to Black Rock City.',,,,,,
-638326486194237441,2015-08-31 12:24:28,"b'Wadsworth to Gerlach travel time 2:50, Gerlach to 8-mile 0:16, Gate Road wait is ~2 hours.'",3h06m,120,,,,
-638285603549810688,2015-08-31 9:42:01,"b'At this time, the drive from Wadsworth to Gerlach is taking about 5 1/2 hours. Stay safe out there!'",5h30m,,,,,
+638326486194237441,2015-08-31 12:24:28,"b'Wadsworth to Gerlach travel time 2:50, Gerlach to 8-mile 0:16, Gate Road wait is ~2 hours.'",3h06m,120,3,06m,6,186
+638285603549810688,2015-08-31 9:42:01,"b'At this time, the drive from Wadsworth to Gerlach is taking about 5 1/2 hours. Stay safe out there!'",5h30m,,5,30m,30,330
 638255994590507008,2015-08-31 7:44:21,b'Thank you all for your cooperation in keeping the roads safe for all.  We continue to monitor the congestion as it clears.',,,,,,
 638198676859457536,2015-08-31 3:56:36,b'Situation unchanged.  Please consider remaining in Reno or elsewhere and traveling to BRC when conditions improve.',,,,,,
 638181336537174017,2015-08-31 2:47:42,b'Find an off ramp and park on a side road. We will update this message with new information as soon as it becomes available',,,,,,
 638181153489313792,2015-08-31 2:46:58,b'We recommend participants wait in Reno or elsewhere for several hours until  congestion is cleared. Do not park on the shoulder of I- 80.',,,,,,
-638180990007951360,2015-08-31 2:46:19,b'please remain in your vehicle.  Estimated delays are up to 8 hours to reach Gerlach from Wadsworth.',8h00m,,,,,
+638180990007951360,2015-08-31 2:46:19,b'please remain in your vehicle.  Estimated delays are up to 8 hours to reach Gerlach from Wadsworth.',8h00m,,8,00m,0,480
 638180904943288320,2015-08-31 2:45:59,"b'We are experiencing significant traffic delays due to slow vehicles on Highway 447. For your own safety, if stopped on Highway 447,'",,,,,,
 638168643784671232,2015-08-31 1:57:15,b'Glitch with one traffic sensor. We expect Wadsworth to Gerlach traffic times to resume shortly.',,,,,,
-638138201144582144,2015-08-30 23:56:17,b'Empire to Gerlach less than 1 hour. Gerlach to 8 Mile less than 1 hour. 8 Mile to Gate less than 1/2 hour.',1h00m,30,,,,
-638122946012147712,2015-08-30 22:55:40,b'Empire to Gerlach 45 minutes.  Gerlach to 8 Mile less than an hour.  8 Mile to Gate about 1 hour',0h45m,60,,,,
-638107653294522368,2015-08-30 21:54:54,b'Empire to Gerlach less than 1 hour. Gerlach to 8 Mile less than 1 hour. 8 Mile to Gate about 1 hour.',0h45m,60,,,,
+638138201144582144,2015-08-30 23:56:17,b'Empire to Gerlach less than 1 hour. Gerlach to 8 Mile less than 1 hour. 8 Mile to Gate less than 1/2 hour.',1h00m,30,1,00m,0,60
+638122946012147712,2015-08-30 22:55:40,b'Empire to Gerlach 45 minutes.  Gerlach to 8 Mile less than an hour.  8 Mile to Gate about 1 hour',0h45m,60,0,45m,45,45
+638107653294522368,2015-08-30 21:54:54,b'Empire to Gerlach less than 1 hour. Gerlach to 8 Mile less than 1 hour. 8 Mile to Gate about 1 hour.',0h45m,60,0,45m,45,45
 638099902929596416,2015-08-30 21:24:06,"b'Please stay in your vehicle while on the roadway, both 447 and Gate Road.  Leaving your vehicle is unsafe and causes delays.'",,,,,,
-638093866327896066,2015-08-30 21:00:07,b'Empire to Gerlach 1.5-2 hours. Gerlach to 8 Mile 45 minutes. 8 Mile to Gate 1 hour.',0h45m,60,,,,
-638077988701999104,2015-08-30 19:57:02,b'Wadsworth to Gerlach around 3.5 hours.  Gerlach to 8 mile currently 1 hour and 10 minutes.  Wait on Gate Road is holding at around 1 hour',4h40m,60,,,,
-638062436516409344,2015-08-30 18:55:14,b'Wadsworth to Gerlach 2.75 hours. Gerlach to 8 Mile 1.25 hours. 8 Mile to Gate about 1 hour.',4h00m,60,,,,
-638047251982454784,2015-08-30 17:54:53,b'Wadsworth to Gerlach 2.5 hours. Gerlach to 8 Mile 50 minutes. 8 Mile to Gate less than 1 hour.',3h20m,60,,,,
-638032571545227265,2015-08-30 16:56:33,b'Wadsworth to Gerlach 2.5 hours. Gerlach to 8 Mile 30 min.',3h00m,,,,,
-638017469467111424,2015-08-30 15:56:33,"b'Wadsworth to Gerlach 2 hours. Gerlach to 8 Mile 17 min. Traffic on Gate Road flowing freely.  Gate opens at 10 A.M.,'",2h17m,,,,,
+638093866327896066,2015-08-30 21:00:07,b'Empire to Gerlach 1.5-2 hours. Gerlach to 8 Mile 45 minutes. 8 Mile to Gate 1 hour.',0h45m,60,0,45m,45,45
+638077988701999104,2015-08-30 19:57:02,b'Wadsworth to Gerlach around 3.5 hours.  Gerlach to 8 mile currently 1 hour and 10 minutes.  Wait on Gate Road is holding at around 1 hour',4h40m,60,4,40m,40,280
+638062436516409344,2015-08-30 18:55:14,b'Wadsworth to Gerlach 2.75 hours. Gerlach to 8 Mile 1.25 hours. 8 Mile to Gate about 1 hour.',4h00m,60,4,00m,0,240
+638047251982454784,2015-08-30 17:54:53,b'Wadsworth to Gerlach 2.5 hours. Gerlach to 8 Mile 50 minutes. 8 Mile to Gate less than 1 hour.',3h20m,60,3,20m,20,200
+638032571545227265,2015-08-30 16:56:33,b'Wadsworth to Gerlach 2.5 hours. Gerlach to 8 Mile 30 min.',3h00m,,3,00m,0,180
+638017469467111424,2015-08-30 15:56:33,"b'Wadsworth to Gerlach 2 hours. Gerlach to 8 Mile 17 min. Traffic on Gate Road flowing freely.  Gate opens at 10 A.M.,'",2h17m,,2,17m,17,137
 637999888039411716,2015-08-30 14:46:41,"b'Wadsworth to gravel 1.75 hours.  Traffic on Gate Road flowing freely.  Gate opens at 10 A.M., Early Arrival passes required until then.'",,,,,,
 637855896840765440,2015-08-30 5:14:31,"b'Weather report for Sunday: Highs in the low 80s, lows in the low 50s at night. Winds around 10 with gusts in the low to mid 20s.'",,,,,,
 637855805149085696,2015-08-30 5:14:09,b'Welcome to Burning Man traffic reporting for 2015. We go live at midnight Pacific time.',,,,,,
 506741337031335936,2014-09-02 9:52:04,b'Thank you for an amazing Exodus.  Max wait times were about 2.5 hours.  See you next year!',,,,,,
-506683386778226688,2014-09-02 6:01:47,"b'Less than an hour wait on Gate Road, traffic is flowing freely. Secure your loads in BRC, not on Gate Road. Drive safe. Stay awake.'",,,,,,1
-506670645296369664,2014-09-02 5:11:09,"b'Less than an hour wait on Gate Road, traffic is flowing freely. Stay awake. Switch driving duties or wait till morning!'",,,,,,1
-506659133349568512,2014-09-02 4:25:25,"b'Less than an hour wait on Gate Road, traffic is flowing freely. Use portapotties and secure your load before departing BRC. Drive Safe!'",,,,,,1
-506641013578817537,2014-09-02 3:13:25,b'There is less than an hour wait time from the end of the line on Gate Road to the Highway.',,,,,,1
-506606864612593664,2014-09-02 0:57:43,b'Wait time on Gate Road 1-2 hours. 1:55 HWY 34 @ 8 mile to Wadsworth.',,,,,,2
-506592792080953344,2014-09-02 0:01:48,"b'@Tyl49er Thanks for the confirmation Tyler, we appreciate all feedback.'",,,,,,2
-506592288814817282,2014-09-01 23:59:48,b'Wait time on Gate Road 1-2 hours. 2:19 HWY 34 @ 8 mile to Wadsworth.',,,,,,2
+506683386778226688,2014-09-02 6:01:47,"b'Less than an hour wait on Gate Road, traffic is flowing freely. Secure your loads in BRC, not on Gate Road. Drive safe. Stay awake.'",,,,,,
+506670645296369664,2014-09-02 5:11:09,"b'Less than an hour wait on Gate Road, traffic is flowing freely. Stay awake. Switch driving duties or wait till morning!'",,,,,,
+506659133349568512,2014-09-02 4:25:25,"b'Less than an hour wait on Gate Road, traffic is flowing freely. Use portapotties and secure your load before departing BRC. Drive Safe!'",,,,,,
+506641013578817537,2014-09-02 3:13:25,b'There is less than an hour wait time from the end of the line on Gate Road to the Highway.',,,,,,
+506606864612593664,2014-09-02 0:57:43,b'Wait time on Gate Road 1-2 hours. 1:55 HWY 34 @ 8 mile to Wadsworth.',,,,,,
+506592792080953344,2014-09-02 0:01:48,"b'@Tyl49er Thanks for the confirmation Tyler, we appreciate all feedback.'",,,,,,
+506592288814817282,2014-09-01 23:59:48,b'Wait time on Gate Road 1-2 hours. 2:19 HWY 34 @ 8 mile to Wadsworth.',,,,,,
 506591322669453312,2014-09-01 23:55:57,b'@alfaj0r Glad we could help and thank you for the trip report.',,,,,,
-506578291340214272,2014-09-01 23:04:11,b'Wait time on Gate Road 1-2 hours. 2:38 HWY 34 @ 8 mile to Wadsworth.',,,,,,2
-506561169146908673,2014-09-01 21:56:08,b'Wait time on Gate Road 1-2 hours. 2:36 HWY 34 @ 8 mile to Wadsworth.',,,,,,2
+506578291340214272,2014-09-01 23:04:11,b'Wait time on Gate Road 1-2 hours. 2:38 HWY 34 @ 8 mile to Wadsworth.',,,,,,
+506561169146908673,2014-09-01 21:56:08,b'Wait time on Gate Road 1-2 hours. 2:36 HWY 34 @ 8 mile to Wadsworth.',,,,,,
 506547241071304704,2014-09-01 21:00:48,b'@anm Thanks!',,,,,,
 506547175526899713,2014-09-01 21:00:32,b'Wait time on Gate Road &lt; 3/4 hour. 2:15 HWY 34 @ 8 mile to Wadsworth.',,,,,,
 506530856328908801,2014-09-01 19:55:41,b'Wait time on gate road &lt; 1/2 hour. 2:07 HWY 34 @ 8 mile to Wadsworth.',,,,,,
@@ -550,47 +550,47 @@ id,created_at,text,Wadsworth to Gate,Gate Wait,,,,
 506410589522894848,2014-09-01 11:57:47,b'Traffic is free flowing on Gate Road. 2:15 Gate Road to Wadsworth. All gate lanes are open and lead to Gerlach. Right lanes are underused.',,,,,,
 506394654300839936,2014-09-01 10:54:28,"b'Exodus pulsing has ceased for the night, traffic is free flowing on Gate Road. Heavy traffic to Empire and beyond, 2:20 to Wadsworth.'",,,,,,
 506382143375695872,2014-09-01 10:04:45,b'Gate Road to Wadsworth 2 hours 10 minutes. Drivers sleeping in line are delaying traffic on Gate Road. Stay alert!',,,,,,
-506371659209515008,2014-09-01 9:23:06,"b'RV-car accident on gate road. No injuries, but possible delay as vehicles towed. Stay alert, obey signs and Exodus staff!'",,,,,,2
-506365319615483904,2014-09-01 8:57:54,b'1-2 hrs on Gate Road. 2 hrs 40min Gate Road to Wadsworth. Drive safe! Switch drivers or pull over to a safe spot if you are falling asleep.',,,,,,2
+506371659209515008,2014-09-01 9:23:06,"b'RV-car accident on gate road. No injuries, but possible delay as vehicles towed. Stay alert, obey signs and Exodus staff!'",,,,,,
+506365319615483904,2014-09-01 8:57:54,b'1-2 hrs on Gate Road. 2 hrs 40min Gate Road to Wadsworth. Drive safe! Switch drivers or pull over to a safe spot if you are falling asleep.',,,,,,
 506350955852361728,2014-09-01 8:00:50,b'@FlyinHootenanny Fly safe! The BRC airport is an important part of our traffic plan.',,,,,,
 506350272625385473,2014-09-01 7:58:07,b'@giggelynn Have a safe drive!',,,,,,
 506349935113957376,2014-09-01 7:56:46,b'@TittySundaes Thanks for the update! It is good to hear real reports from participants.',,,,,,
-506349274553012224,2014-09-01 7:54:09,b'1-2 hours on Gate Road. 2 hours 40 minutes from Gate Road to Wadsworth.',,,,,,2
-506337929698881537,2014-09-01 7:09:04,b'2-3 hour wait on Gate Road. 2 hours 40 minutes from Gate Road to Wadsworth.',,,,,,3
-506323116163735553,2014-09-01 6:10:12,b'2-3 hour wait on Gate Road. 2 hours 33 minutes from Gate Road to Wadsworth.',,,,,,3
-506303490440712192,2014-09-01 4:52:13,b'currently a 2- 3 hour wait on Gate Road to gravel/ County Road 34. currently 2-3 hours from County Road 34/end of Gate Road to Wadsworth.',,,,,,3
-506259088108298240,2014-09-01 1:55:47,"b'Currently 2 hours and 5 minutes from Gate Road to Wadsworth, 1-2 hour backup on Gate Road.'",,,,,,2
-506244317309308930,2014-09-01 0:57:05,"b'Currently 1 hour and 55 minutes from Gate Road to Wadsworth, 2-3 hour backup on Gate Road.'",,,,,,3
-5.0623E+17,2014-08-31 23:58:43,"b'2 hours and 5 minutes from Gravel to Wadsworth, between 1 and 2 hours on Gate Road.'",,,,,,2
-506217918489583616,2014-08-31 23:12:11,"b'1 hour and 55 minutes from Gravel to Wadsworth, between 1 and 2 hours on Gate Road.'",,,,,,2
-506178458389450752,2014-08-31 20:35:23,"b'2 hours and 25 minutes from Gravel to Wadsworth, between 1 and 2 hours on Gate Road.'",,,,,,2
-506154964666687488,2014-08-31 19:02:02,"b'Less than 1 hour Greeters to gravel, 22 min from gravel to Gerlach, 1:55 min from gravel to Wadsworth.'",,,,,,1
-506138366178390016,2014-08-31 17:56:04,"b'Less than 1 hour Greeters to gravel, 18 min from Gate Road to Gerlach, 1:48 min from Gate Road to Wadsworth.'",,,,,,1
+506349274553012224,2014-09-01 7:54:09,b'1-2 hours on Gate Road. 2 hours 40 minutes from Gate Road to Wadsworth.',,,,,,
+506337929698881537,2014-09-01 7:09:04,b'2-3 hour wait on Gate Road. 2 hours 40 minutes from Gate Road to Wadsworth.',,,,,,
+506323116163735553,2014-09-01 6:10:12,b'2-3 hour wait on Gate Road. 2 hours 33 minutes from Gate Road to Wadsworth.',,,,,,
+506303490440712192,2014-09-01 4:52:13,b'currently a 2- 3 hour wait on Gate Road to gravel/ County Road 34. currently 2-3 hours from County Road 34/end of Gate Road to Wadsworth.',,,,,,
+506259088108298240,2014-09-01 1:55:47,"b'Currently 2 hours and 5 minutes from Gate Road to Wadsworth, 1-2 hour backup on Gate Road.'",,,,,,
+506244317309308930,2014-09-01 0:57:05,"b'Currently 1 hour and 55 minutes from Gate Road to Wadsworth, 2-3 hour backup on Gate Road.'",,,,,,
+5.0623E+17,2014-08-31 23:58:43,"b'2 hours and 5 minutes from Gravel to Wadsworth, between 1 and 2 hours on Gate Road.'",,,,,,
+506217918489583616,2014-08-31 23:12:11,"b'1 hour and 55 minutes from Gravel to Wadsworth, between 1 and 2 hours on Gate Road.'",,,,,,
+506178458389450752,2014-08-31 20:35:23,"b'2 hours and 25 minutes from Gravel to Wadsworth, between 1 and 2 hours on Gate Road.'",,,,,,
+506154964666687488,2014-08-31 19:02:02,"b'Less than 1 hour Greeters to gravel, 22 min from gravel to Gerlach, 1:55 min from gravel to Wadsworth.'",,,,,,
+506138366178390016,2014-08-31 17:56:04,"b'Less than 1 hour Greeters to gravel, 18 min from Gate Road to Gerlach, 1:48 min from Gate Road to Wadsworth.'",,,,,,
 506126694994833408,2014-08-31 17:09:42,"b'Gate Road is flowing freely, 15 min from Gate Road to Gerlach, 1:41 min from Gate Road to Wadsworth. Very little traffic issues at present.'",,,,,,
 506095029006241793,2014-08-31 15:03:52,"b'Gate Road is flowing freely, 15 min from Gate Road to Gerlach, 1:38 min from Gate Road to Wadsworth. Very little traffic issues at present.'",,,,,,
 506063088177524736,2014-08-31 12:56:57,"b'Gate Road is flowing freely, 15 min from Gate Road to Gerlach, 1:30 min from Gate Road to Wadsworth. Very little traffic issues at present.'",,,,,,
 506048924197482496,2014-08-31 12:00:40,"b'Gate Road is flowing freely, 15 min from Gate Road to Gerlach, 1:54 min from Gate Road to Wadsworth. Very little traffic issues at present.'",,,,,,
-506032617590771712,2014-08-31 10:55:52,"b'Gate to pavement less than an hour,.15 min from Gate Road to Gerlach, 1:40 from Gate Road to Wadsworth.'",,,,,,1
+506032617590771712,2014-08-31 10:55:52,"b'Gate to pavement less than an hour,.15 min from Gate Road to Gerlach, 1:40 from Gate Road to Wadsworth.'",,,,,,
 506019167934242816,2014-08-31 10:02:25,"b'15 min from Gate Road to Gerlach, 1:40 from Gate Road to Wadsworth. Gate road reported to be flowing freely.'",,,,,,
 506000126708441088,2014-08-31 8:46:45,"b'Expected wait times from Gate Road (Highway 34) to Gerlach is 0:15, to Wadsworth is 1:40. Gate road reported to be flowing freely.'",,,,,,
 505986863614537728,2014-08-31 7:54:03,"b'Exodus traffic updates will continue every hour. Expected wait times from Gate Road (Highway 34) to Gerlach is 0:15, to Wadsworth is 1:40.'",,,,,,
 505977028097490944,2014-08-31 7:14:58,b'Exodus traffic updates will continue every hour. Expected wait times from Gate Road (Highway 34) to Wadsworth are 1:45.',,,,,,
 504523397586366464,2014-08-27 6:58:46,"b'Unless there is an anomaly, traffic updates will be suspended until the Exodus.  Have a great burn!'",,,,,,
-504418002922516481,2014-08-26 23:59:58,"b'Wadsworth to playa access 1:40, Gate Road is about a 1.5-2 hour wait. Traffic on 447 flowing well.'",1h40m,105,,,,
-504404701060665344,2014-08-26 23:07:06,"b'Wadsworth to playa access 2:06, Gate Road is about a 2-3 hour wait.'",2h06m,150,,,,
-504386995099938816,2014-08-26 21:56:45,"b'Wadsworth to playa access 1:45, wait on Gate Road is about 2-3 hours, plus additional time for will call if needed.'",1h45m,150,,,,
-504371971669258240,2014-08-26 20:57:03,"b'Wadsworth to 8 mile, 1:48,  Gate time 2 to 3 hours plus additional time for will call, if needed.'",1h48m,150,,,,
-504356352387739648,2014-08-26 19:54:59,"b'Wadsworth to 8 mile, 1:49,  Gate time 3.5 to 4 hours plus additional time for will call, if needed.'",1h49m,225,,,,
+504418002922516481,2014-08-26 23:59:58,"b'Wadsworth to playa access 1:40, Gate Road is about a 1.5-2 hour wait. Traffic on 447 flowing well.'",1h40m,105,1,40m,40,100
+504404701060665344,2014-08-26 23:07:06,"b'Wadsworth to playa access 2:06, Gate Road is about a 2-3 hour wait.'",2h06m,150,2,06m,6,126
+504386995099938816,2014-08-26 21:56:45,"b'Wadsworth to playa access 1:45, wait on Gate Road is about 2-3 hours, plus additional time for will call if needed.'",1h45m,150,1,45m,45,105
+504371971669258240,2014-08-26 20:57:03,"b'Wadsworth to 8 mile, 1:48,  Gate time 2 to 3 hours plus additional time for will call, if needed.'",1h48m,150,1,48m,48,108
+504356352387739648,2014-08-26 19:54:59,"b'Wadsworth to 8 mile, 1:49,  Gate time 3.5 to 4 hours plus additional time for will call, if needed.'",1h49m,225,1,49m,49,109
 504355901164498945,2014-08-26 19:53:11,"b'BRC airport is now open w/1 runway for takeoffs and landings. 2nd runway opens @ 2 p.m. 1 for takeoffs, 1 for landings.'",,,,,,
 504348338947641344,2014-08-26 19:23:09,"b""BRC is full from 6:30 to 10 o'clock side. Plenty of open space on the 2 o'clock side.""",,,,,,
-504342946217742336,2014-08-26 19:01:43,"b'Wadsworth to 8 mile, 1:44,  Gate time 2 to 2.5 hours plus additional time for will call, if needed.'",1h44m,135,,,,
-504327308665036801,2014-08-26 17:59:34,"b'Wadsworth to 8 mile, 1:41,  Gate time 1 to 1.5 hours plus additional time for will call, if needed.'",1h41m,75,,,,
-504312586305687552,2014-08-26 17:01:04,"b'Wadsworth to 8 mile, 1:41,  Gate time 30-60 minutes plus additional time for will call, if needed.'",1h41m,45,,,,
+504342946217742336,2014-08-26 19:01:43,"b'Wadsworth to 8 mile, 1:44,  Gate time 2 to 2.5 hours plus additional time for will call, if needed.'",1h44m,135,1,44m,44,104
+504327308665036801,2014-08-26 17:59:34,"b'Wadsworth to 8 mile, 1:41,  Gate time 1 to 1.5 hours plus additional time for will call, if needed.'",1h41m,75,1,41m,41,101
+504312586305687552,2014-08-26 17:01:04,"b'Wadsworth to 8 mile, 1:41,  Gate time 30-60 minutes plus additional time for will call, if needed.'",1h41m,45,1,41m,41,101
 504302013060898818,2014-08-26 16:19:04,"b""9 o'clock side of the city is full. If you're not part of an established camp, there's room for you on the 3 o'clock side""",,,,,,
-504298051159064576,2014-08-26 16:03:19,"b'Wadsworth to 8 mile entrance 1:45, estimated time on Gate Road 30-60 minutes for those that do not need to visit the Box Office.'",1h45m,45,,,,
-504281758632644608,2014-08-26 14:58:35,"b'Wadsworth to 8 Mile entrance 1:37.  Gate lane time ~0:30.  Allow extra time for will call, if needed.'",1h37m,30,,,,
+504298051159064576,2014-08-26 16:03:19,"b'Wadsworth to 8 mile entrance 1:45, estimated time on Gate Road 30-60 minutes for those that do not need to visit the Box Office.'",1h45m,45,1,45m,45,105
+504281758632644608,2014-08-26 14:58:35,"b'Wadsworth to 8 Mile entrance 1:37.  Gate lane time ~0:30.  Allow extra time for will call, if needed.'",1h37m,30,1,37m,37,97
 504277200586018816,2014-08-26 14:40:28,b'Burning Man airport reopens at noon today',,,,,,
-504266827199827968,2014-08-26 13:59:15,"b'Wadsworth to 8 Mile, 1:40.  No wait at gate.'",1h40m,0,,,,
+504266827199827968,2014-08-26 13:59:15,"b'Wadsworth to 8 Mile, 1:40.  No wait at gate.'",1h40m,0,1,40m,40,100
 504252349922041856,2014-08-26 13:01:43,b'BM gate &amp; all roads to BM are open as of 6 AM.  Wadsworth to 8 Mile entrance running at 1:42.  No backup at gate.',,,,,,
 504133380317802496,2014-08-26 5:08:58,b'Burning Man and the roads leading to it reopen 6 a.m. Tuesday.',,,,,,
 504008394848882688,2014-08-25 20:52:20,"b'BRC is closed until midday Tuesday due to rain and standing water. At the request of organizers, law enforcement is turning cars back.'",,,,,,
@@ -600,37 +600,37 @@ id,created_at,text,Wadsworth to Gate,Gate Wait,,,,
 503915426359672832,2014-08-25 14:42:54,b'Gate Road unlikely to open anytime in the next 4 hours.  Stay in Reno please.',,,,,,
 503899415694696448,2014-08-25 13:39:17,b'Rain continuing.  Please do not come to Burning Man until you hear otherwise from official channels.',,,,,,
 503893821743054849,2014-08-25 13:17:03,b'Rain on Playa.  Gate Road currently shut down at the 8 mile entrance.  Stop before you get to Gerlach if you can.',,,,,,
-503888199488249859,2014-08-25 12:54:43,b'1:40 minutes Wadsworth to 8 Mile! Woo Hoo! Estimate 5-6 hours on Gate Road. Rain on Playa. Try not to drive on wet playa.',1h40m,330,,,,
-503873523937320960,2014-08-25 11:56:24,b'Rain on Playa. Try not to drive on wet playa. 2 hours Wadsworth to 8 Mile! Woo Hoo! Estimate 5-6 hours on Gate Road.',2h00m,330,,,,
+503888199488249859,2014-08-25 12:54:43,b'1:40 minutes Wadsworth to 8 Mile! Woo Hoo! Estimate 5-6 hours on Gate Road. Rain on Playa. Try not to drive on wet playa.',1h40m,330,1,40m,40,100
+503873523937320960,2014-08-25 11:56:24,b'Rain on Playa. Try not to drive on wet playa. 2 hours Wadsworth to 8 Mile! Woo Hoo! Estimate 5-6 hours on Gate Road.',2h00m,330,2,00m,0,120
 503871509174038528,2014-08-25 11:48:23,"b'@DGGARB Will Call is experiencing a very long wait time. Be prepared, bring snacks and water to the line. Double check all your paperwork!'",,,,,,
 503871108093726722,2014-08-25 11:46:48,b'@tekz0r Yes! Dont endanger your safety or traffic lines! Try to alternate drivers or take a nap in a safe (and non intrusive) place.',,,,,,
-503860107810045952,2014-08-25 11:03:05,"b'2 hours Wadsworth to 8 Mile. Estimate 4 1/2 hours on Gate Road. Rain possible, try not to drive on wet Playa.'",2h00m,270,,,,
-503843942719172609,2014-08-25 9:58:51,b'2 hours 20 minutes Wadsworth to 8 Mile. Estimate 4 1/2 hours on Gate Road. Bring snacks and water if going to Will Call. Long wait times.',2h20m,270,,,,
-503828502903144449,2014-08-25 8:57:30,b'2 hours 30 minutes Wadsworth to 8 Mile. Estimate 4 1/2 hours on Gate Road. Stay safe! Remain with your vehicles please.',2h30m,270,,,,
-503817158376181760,2014-08-25 8:12:25,b'Wadsworth to 8-mile 2 hours 50 minutes. Gate Road expected wait time 4 hours.',2h50m,240,,,,
-503795753001558016,2014-08-25 6:47:22,b'3 hours 20 minutes Wadsworth to Gate Road. 3 hours wait on Gate Road.',3h20m,180,,,,
+503860107810045952,2014-08-25 11:03:05,"b'2 hours Wadsworth to 8 Mile. Estimate 4 1/2 hours on Gate Road. Rain possible, try not to drive on wet Playa.'",2h00m,270,2,00m,0,120
+503843942719172609,2014-08-25 9:58:51,b'2 hours 20 minutes Wadsworth to 8 Mile. Estimate 4 1/2 hours on Gate Road. Bring snacks and water if going to Will Call. Long wait times.',2h20m,270,2,20m,20,140
+503828502903144449,2014-08-25 8:57:30,b'2 hours 30 minutes Wadsworth to 8 Mile. Estimate 4 1/2 hours on Gate Road. Stay safe! Remain with your vehicles please.',2h30m,270,2,30m,30,150
+503817158376181760,2014-08-25 8:12:25,b'Wadsworth to 8-mile 2 hours 50 minutes. Gate Road expected wait time 4 hours.',2h50m,240,2,50m,50,170
+503795753001558016,2014-08-25 6:47:22,b'3 hours 20 minutes Wadsworth to Gate Road. 3 hours wait on Gate Road.',3h20m,180,3,20m,20,200
 503792797162274817,2014-08-25 6:35:37,b'@spencerlindsay Tell me about it.',,,,,,
-503781478317043712,2014-08-25 5:50:38,b'3 hours 20 minutes Wadsworth to 8 Mile. 4-ish hours in Gate Road. Stay safe! Remain with your vehicles at all times.',3h20m,240,,,,
+503781478317043712,2014-08-25 5:50:38,b'3 hours 20 minutes Wadsworth to 8 Mile. 4-ish hours in Gate Road. Stay safe! Remain with your vehicles at all times.',3h20m,240,3,20m,20,200
 503773852636172288,2014-08-25 5:20:20,b'Wait times at Will Call &amp; Box Office are 4 hours or more in addition to drive time to the event.',,,,,,
 503770553614753793,2014-08-25 5:07:14,"b'If stopping at the Vendors in Gerlach, please pull all the way of the road and safely park your vehicle.'",,,,,,
-503770206666125312,2014-08-25 5:05:51,b'4 hours 30 minutes Wadsworth to 8 Mile.  4 hour wait on Gate Road.',4h30m,240,,,,
+503770206666125312,2014-08-25 5:05:51,b'4 hours 30 minutes Wadsworth to 8 Mile.  4 hour wait on Gate Road.',4h30m,240,4,30m,30,270
 503764857280135169,2014-08-25 4:44:36,"b'If traffic comes to a stop at any point on your drive in, please, for safety reasons, remain in your vehicle.'",,,,,,
-503753763195084800,2014-08-25 4:00:31,"b'5 hours 15 minutes Wadsworth to 8 Mile. 2 to 3 hour wait on gate road. No official pulsing in effect, traffic may move at any time.'",5h15m,,,,,
-503743081116487680,2014-08-25 3:18:04,"b'About 4 hours 20 minutes Wadsworth to 8 Mile, still 2-3 hours wait on Gate Road. Remember: Traffic times do not include Will Call wait time.'",4h20m,150,,,,
-503724756986646528,2014-08-25 2:05:15,"b'4 hours 16 minutes Wadsworth to 8 Mile , 2 to 3 hours wait on gate road'",4h16m,150,,,,
+503753763195084800,2014-08-25 4:00:31,"b'5 hours 15 minutes Wadsworth to 8 Mile. 2 to 3 hour wait on gate road. No official pulsing in effect, traffic may move at any time.'",5h15m,,5,15m,15,315
+503743081116487680,2014-08-25 3:18:04,"b'About 4 hours 20 minutes Wadsworth to 8 Mile, still 2-3 hours wait on Gate Road. Remember: Traffic times do not include Will Call wait time.'",4h20m,150,4,20m,20,260
+503724756986646528,2014-08-25 2:05:15,"b'4 hours 16 minutes Wadsworth to 8 Mile , 2 to 3 hours wait on gate road'",4h16m,150,4,16m,16,256
 503712500475367424,2014-08-25 1:16:33,"b'Please remember to fuel your vehicle before reaching 447.  Nixon is out of gasoline, and Empire and Gerlach gas stations are congested.'",,,,,,
-503710652708294656,2014-08-25 1:09:12,b'4 hours and 27 minutes from Wadsworth to 8 mile.  Wait time on Gate road for those not needing to visit Will Call around 2 to 3 hours.',4h27m,150,,,,
+503710652708294656,2014-08-25 1:09:12,b'4 hours and 27 minutes from Wadsworth to 8 mile.  Wait time on Gate road for those not needing to visit Will Call around 2 to 3 hours.',4h27m,150,4,27m,27,267
 503709239420792832,2014-08-25 1:03:35,"b""If you haven't seen it yet, the Burning Man webcast is live from the playa - http://t.co/DoVuFaF1nm""",,,,,,
-503679036296404993,2014-08-24 23:03:34,"b'4 hours and 35 minutes Wadsworth to 8 mile.  Around a 2 hour wait on Gate road, if you are not stopping at Will Call.'",4h35m,120,,,,
+503679036296404993,2014-08-24 23:03:34,"b'4 hours and 35 minutes Wadsworth to 8 mile.  Around a 2 hour wait on Gate road, if you are not stopping at Will Call.'",4h35m,120,4,35m,35,275
 503670407329632256,2014-08-24 22:29:17,"b'Stay in your vehicle if you are in stopped traffic on 447 or 34.  No official pulsing in effect, traffic may move at any time.'",,,,,,
 503666700856737794,2014-08-24 22:14:33,b'Nixon store is out of gas. Fuel up before you hit 447!',,,,,,
-503664907926003714,2014-08-24 22:07:26,b'4 hours and 20 minutes Wadsworth to 8 mile. 2-3 hour wait on Gate Road.',4h20m,,,,,
+503664907926003714,2014-08-24 22:07:26,b'4 hours and 20 minutes Wadsworth to 8 mile. 2-3 hour wait on Gate Road.',4h20m,,4,20m,20,260
 503634305852006400,2014-08-24 20:05:50,b'Heavy stop and go traffic on 447. About an hour and a half wait on Gate Road if you do not need will call.',,150,,,,
 503625683705143296,2014-08-24 19:31:34,"b'Expect delays 80 eastbound over Donner Summit, please use caution'",,90,,,,
-503619243418451972,2014-08-24 19:05:59,"b'3 hours 45 minutes Wadsworth to 8 mile, about one hour wait on Gate Road. Backup south of Empire.'",3h45m,60,,,,
-503602831610228736,2014-08-24 18:00:46,b'3 hours Wadsworth to 8 Mile. About one hour wait on Gate Road. Traffic heavy south of Empire',3h45m,60,,,,
+503619243418451972,2014-08-24 19:05:59,"b'3 hours 45 minutes Wadsworth to 8 mile, about one hour wait on Gate Road. Backup south of Empire.'",3h45m,60,3,45m,45,225
+503602831610228736,2014-08-24 18:00:46,b'3 hours Wadsworth to 8 Mile. About one hour wait on Gate Road. Traffic heavy south of Empire',3h45m,60,3,45m,45,225
 503598665303224320,2014-08-24 17:44:12,b'Traffic backing up in Empire. You will be flagged through. Please gas up before Empire.',,,,,,
-503587517719797760,2014-08-24 16:59:55,b'2 hours 45 mins from Wadsworth to 8 mile.',2h45m,,,,,
+503587517719797760,2014-08-24 16:59:55,b'2 hours 45 mins from Wadsworth to 8 mile.',2h45m,,2,45m,45,165
 503583469918633984,2014-08-24 16:43:50,"b'Burning Man officially begins at 6 p.m. Gate opens at 10 a.m.  to allow burners time to set up camps, art &amp; alleviate backups at Gate.'",,,,,,
 503579665399689216,2014-08-24 16:28:42,"b'447 slow in Empire, no delays south of Empire. 1:48 Wadsworth to Gerlach. Gate opens 10 a.m.'",,,,,,
 503543348477448192,2014-08-24 14:04:24,"b'@anm On IHeartRadio, search for ""Burning Man"" or ""BMIR"" to find BMIR, which is reporting traffic updates at the top of the hour.'",,,,,,
